@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd86e;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_macosx" transform="translate(-973 -365)">
+    <g id="Group_2465" data-name="Group 2465" transform="translate(937 366)">
+      <path id="Path_4816" data-name="Path 4816" class="cls-1" d="M57,16.2a13.339,13.339,0,0,1-1.5,3.2c-.9,1.3-1.9,2.7-3.4,2.7s-2-.9-3.6-.9c-1.7,0-2.2.9-3.6.9-1.4.1-2.6-1.5-3.5-2.8-1.9-2.7-3.3-7.7-1.4-11.1a5.393,5.393,0,0,1,4.6-2.8c1.4,0,2.8,1,3.6,1,.9,0,2.5-1.2,4.2-1a5.053,5.053,0,0,1,4,2.2A4.863,4.863,0,0,0,54,11.7a4.7,4.7,0,0,0,3,4.5"/>
+      <path id="Path_4817" data-name="Path 4817" class="cls-1" d="M51.2,3.6A5.238,5.238,0,0,0,52.4,0a4.662,4.662,0,0,0-3.3,1.7,4.871,4.871,0,0,0-1.2,3.4,4.13,4.13,0,0,0,3.3-1.5"/>
+      <rect id="Rectangle_3191" data-name="Rectangle 3191" class="cls-2" width="18" height="22.1" transform="translate(39)"/>
+    </g>
+    <rect id="Rectangle_3197" data-name="Rectangle 3197" class="cls-2" width="24" height="24" transform="translate(973 365)"/>
+  </g>
+</svg>

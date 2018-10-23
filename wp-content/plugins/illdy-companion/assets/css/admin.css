@@ -1,0 +1,17 @@
+#demo_content {
+	text-align: left;
+}
+#demo_content .spinner,
+.frontpage-spinner {
+	float: none;
+}
+.updated-message,
+#demo_content .spinner {
+	display: none;
+}
+#demo_content .spinner.is-active {
+	display: inline-block;
+}
+.illdy-media-control img {
+    width: 100%;
+}

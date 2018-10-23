@@ -1,0 +1,1500 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Freddo\n"
+"POT-Creation-Date: 2018-03-28 14:48+0100\n"
+"PO-Revision-Date: 2018-03-28 14:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:32
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:39 index.php:44 search.php:39
+msgid "Previous"
+msgstr ""
+
+#: archive.php:40 index.php:45 search.php:40
+msgid "Next"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:54
+msgid "Reply"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:74
+msgid "Name *"
+msgstr ""
+
+#: comments.php:75
+msgid "Email *"
+msgstr ""
+
+#: comments.php:76
+msgid "Website"
+msgstr ""
+
+#: comments.php:78
+msgid "Required fields are marked "
+msgstr ""
+
+#. translators: %s: wordpress login url
+#: comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. translators: 1: profile user link, 2: username, 3: logout link
+#: comments.php:85
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:86
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:87
+msgid "Leave a Reply"
+msgstr ""
+
+#. translators: %s: name of person to reply
+#: comments.php:89
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:90
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:92
+msgid "Comment *"
+msgstr ""
+
+#: footer.php:50
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:52
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: theme name, 2: theme developer
+#: footer.php:57
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:58 functions.php:132
+msgid "Primary"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer"
+msgstr ""
+
+#: functions.php:163
+msgid "Classic Sidebar"
+msgstr ""
+
+#: functions.php:165 functions.php:174 functions.php:183 functions.php:192
+#: functions.php:201
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:172
+msgid "Push Sidebar"
+msgstr ""
+
+#: functions.php:181
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:190
+msgid "Footer Center"
+msgstr ""
+
+#: functions.php:199
+msgid "Footer Right"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:128 header.php:133 inc/customizer.php:277 inc/customizer.php:831
+#: sections/section-slider.php:41
+msgid "Scroll Down"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:31 inc/admin/freddo-admin-page.php:104
+msgid "About"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:66
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:69
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:81
+msgid "Dismiss"
+msgstr ""
+
+#. translators: 1: start option panel link, 2: end option panel link
+#: inc/admin/freddo-admin-page.php:85
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Freddo theme! To fully take advantage of the "
+"best our theme can offer and read the documentation please make sure you "
+"visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:89
+msgid "Get started with Freddo"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:110
+msgid "Theme Info"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:112
+msgid "View Demo"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:114
+msgid "View PRO version Demo"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:116
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:129
+msgid "Free Vs PRO"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:132 inc/pro-button/class-customize.php:90
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:135
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:163
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:164
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:165
+msgid "Customize"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:168
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:169
+msgid "Please put it in our support forum."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:170
+msgid "Support"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:173
+msgid "Need more features?"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:174 inc/admin/freddo-admin-page.php:506
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:175
+msgid "Info about PRO version"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:180 inc/admin/freddo-admin-page.php:188
+msgid "Translate"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:184
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:199
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:199
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:202
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:202
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:215
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:260
+msgid "Freddo WordPress Theme Documentation"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:263
+msgid "How to set the \"one page\" template in the home page"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:268
+msgid ""
+"Watch the video to set the onepage template on the home page, or read the "
+"step-by-step instructions below."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:271 inc/admin/freddo-admin-page.php:337
+msgid "Link to the YouTube video"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:276
+msgid ""
+"1) Create a new page and name it as you like (eg. My Home Page). In the "
+"\"Page Attributes\" section choose the template called \"One Page Website\" "
+"and save the page."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:284
+msgid ""
+"2) Go in your WordPress Dashboard under \"Settings-> Reading\". Set the "
+"\"Front page displays\" on \"Static Page\" and choose the page you "
+"previously created as Front page (eg. My Home Page)."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:292
+msgid ""
+"3) Perfect! Now you can go in your WordPress Dashboard under \"Appearance-> "
+"Customize\" and you'll see the section called \"Freddo Onepage\" in which "
+"you can customize the home page."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:304
+msgid "One Page: how to scroll to section using the menu"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:309
+msgid ""
+"1) Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo "
+"Onepage\" and choose one section (eg. Features) and add a section ID (eg. "
+"features) for this section. Save the options."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:317
+msgid ""
+"2) Now go to your WordPress Dashboard under \"Appearance-> Menus\" and "
+"create a new custom link with the URL of your home page followed the ID "
+"created for the section (eg. yoursite.com/#features). Add this custom link "
+"to your menu and save the options."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:329
+msgid ""
+"One Page: how to set \"About Us\" section, \"Features\" section, \"Services"
+"\" section and \"Team\" section"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:334
+msgid ""
+"Watch the video to set the \"About Us\" section, or read the step-by-step "
+"instructions below."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:342
+msgid ""
+"1) These sections (About Us, Features, Services and Team) work in the same "
+"way and with the same procedure. To insert the content create a new page, "
+"and insert the title, content and featured image. The featured image is only "
+"valid for the \"About Us\" and \"Team\" section but is not mandatory."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:350
+msgid ""
+"2) Now go to \"Appearance-> Customize-> Freddo Onepage\" and choose the "
+"section you want to edit (About Us, Features or Services). Find the option "
+"called \"Choose the page to display\" and search the page you just created."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:358
+msgid ""
+"3) Now the section will show the content of the page previously created and "
+"the layout will be like the example image. The \"Features\", \"Services\" "
+"and \"Team\" sections work in the same way but will have a different layout."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:370
+msgid "One Page: how to re-order sections"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:375
+msgid ""
+"Re-order sections is available in Freddo PRO version. With this feature you "
+"can choose the position of each section using drag and drop. Click on the "
+"button below for more information:"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:376
+msgid "More Info About PRO Version"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:388
+msgid "How to add social icons"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:393
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo Theme "
+"Options-> Social Network\". Here you can choose which social network to "
+"show, social icons will be displayed in the footer."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:405
+msgid "How to add custom logo"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:410
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Site Identity"
+"\". Here you can upload your custom logo (size 250x60px)."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:422
+msgid "How to change theme colors"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:427
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo Theme "
+"Options-> Theme Colors\". Here you can change the theme colors according to "
+"sections of the site (header, content, push sidebar and footer)."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:439
+msgid "How to display page loader"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:444
+msgid ""
+"Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo Theme "
+"Options-> General Settings\", find the option called \"Display page loader\" "
+"and check it. The background will be the same of \"Content background color"
+"\" and the loader icon the same color of \"Link color\"."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:456
+msgid "Can I use a page builder plugin?"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:461
+msgid ""
+"Yes, the theme is compatible with Elementor Page Builder, SiteOrigin and "
+"Beaver Builder plugins. Just create or edit the page you want to use the "
+"page builder and choose the template called \"Full Width for page builders"
+"\". This template allows page builders to have maximum page customization "
+"(only the menu and the footer will be visible)."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:473
+msgid "How to highlight a menu item"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:478
+msgid ""
+"If you need to emphasize a menu item (call to action, donate button, etc..) "
+"just go to your WordPress Dashboard under \"Appearance-> Menus\". Create a "
+"new \"Custom Links\" and drag it into the menu. Expand the entry and in the "
+"\"CSS Classes\" section write: crestaMenuButton"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:486
+msgid ""
+"This will be the result (the colors change according to the ones chosen)."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:510
+msgid "Features"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:511
+msgid "Freddo"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:512
+msgid "Freddo PRO"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:517
+msgid "Theme Options made with the WP Customizer"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:522
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:527
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:532
+msgid "Unlimited Text and Background Color"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:537
+msgid "Choose Social Icons"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:539
+msgid "+ more social buttons"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:542
+msgid "WooCommerce Compatibility"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:547
+msgid "WPML Multilingual ready"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:552
+msgid "RTL Support"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:557
+msgid "Sidebar and Footer Widgets"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:562
+msgid "Loading Page"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:563
+msgid "1 loader"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:564
+msgid "7 loaders"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:567
+msgid "One Page Template"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:569
+msgid "+ more sections"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:572
+msgid "One Page additional sections"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:574
+msgid ""
+"Portfolio, Google Map, Numbers, Newsletter, Clients, Testimonials, Video and "
+"more..."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:577
+msgid "One Page Section Reorder"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:582
+msgid "One Page Template scroll animations"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:587
+msgid "One Page choose Slider Height"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:592
+msgid "Portfolio Template"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:597
+msgid "Parallax Effect"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:602
+msgid "Google Fonts switcher"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:607
+msgid "Manage sidebar position"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:612
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:617
+msgid "Post views counter"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:622
+msgid "9 Exclusive Widgets"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:627
+msgid "4 Shortcodes"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:632
+msgid "Related Posts Box"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:637
+msgid "Information About Author Box"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:642
+msgid "PowerTip, LightBox, Custom Copyright Text and much more..."
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:650
+msgid "View PRO version demo"
+msgstr ""
+
+#: inc/admin/freddo-admin-page.php:651
+msgid "Get Freddo PRO"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "Freddo Theme Options"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Freddo Onepage"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Posts and pages settings"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Footer Social Buttons"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Onepage general settings"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Section slider"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Section about us"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Section features"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Section skills"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Section call to action"
+msgstr ""
+
+#: inc/customizer.php:133
+msgid "Section services"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Section blog"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Section team"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Section contact"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Freddo useful links"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Display page loader"
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Display search button in the header"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Show scroll to top button also on mobile view"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid "Fixed main menu also on mobile view"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Custom Excerpt Final"
+msgstr ""
+
+#: inc/customizer.php:252
+msgid "Text lenght for blog excerpt (number of words)"
+msgstr ""
+
+#: inc/customizer.php:269
+msgid "Show the scroll down button"
+msgstr ""
+
+#: inc/customizer.php:284 inc/customizer.php:838
+msgid "Scroll Down Text "
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Show excerpt or full post in the blog page"
+msgstr ""
+
+#: inc/customizer.php:305
+msgid "Show excerpt"
+msgstr ""
+
+#: inc/customizer.php:306
+msgid "Show full post"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "Scroll down effect on featured images"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "No effect"
+msgstr ""
+
+#: inc/customizer.php:324 inc/customizer.php:811
+msgid "Zoom Effect"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Content Section"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Push Sidebar Section"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid "Header Accent Color"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Content Text Color"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "Content Accent Color"
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "General Border Color"
+msgstr ""
+
+#: inc/customizer.php:442
+msgid "Push sidebar background color"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "Push sidebar text color"
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Push sidebar accent color"
+msgstr ""
+
+#: inc/customizer.php:460
+msgid "Footer background color"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Footer text color"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "Footer accent color"
+msgstr ""
+
+#: inc/customizer.php:504
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/customizer.php:519
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/customizer.php:529
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/customizer.php:534
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/customizer.php:544
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid "VK URL"
+msgstr ""
+
+#: inc/customizer.php:554
+msgid "Xing URL"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Reddit URL"
+msgstr ""
+
+#: inc/customizer.php:564
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/customizer.php:593
+msgid "Open social links"
+msgstr ""
+
+#: inc/customizer.php:599 inc/customizer.php:1734
+msgid "Same window"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "New Window"
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "One Page Map"
+msgstr ""
+
+#: inc/customizer.php:630
+msgid "Show the one page section map"
+msgstr ""
+
+#: inc/customizer.php:644
+msgid "Slider Text"
+msgstr ""
+
+#: inc/customizer.php:658
+msgid "About Us Text"
+msgstr ""
+
+#: inc/customizer.php:672
+msgid "Features Text"
+msgstr ""
+
+#: inc/customizer.php:686
+msgid "Skills Text"
+msgstr ""
+
+#: inc/customizer.php:700
+msgid "CTA Text"
+msgstr ""
+
+#: inc/customizer.php:714
+msgid "Services Text"
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "Blog Text"
+msgstr ""
+
+#: inc/customizer.php:742
+msgid "Team Text"
+msgstr ""
+
+#: inc/customizer.php:756
+msgid "Contact Text"
+msgstr ""
+
+#: inc/customizer.php:773
+msgid "Display section slider"
+msgstr ""
+
+#: inc/customizer.php:787 inc/customizer.php:954 inc/customizer.php:1160
+#: inc/customizer.php:1400 inc/customizer.php:1571 inc/customizer.php:1763
+#: inc/customizer.php:2040 inc/customizer.php:2209 inc/customizer.php:2381
+msgid "Section ID name"
+msgstr ""
+
+#: inc/customizer.php:788 inc/customizer.php:955 inc/customizer.php:1161
+#: inc/customizer.php:1401 inc/customizer.php:1572 inc/customizer.php:1764
+#: inc/customizer.php:2041 inc/customizer.php:2210 inc/customizer.php:2382
+msgid ""
+"ID for this section - if you want the user to be able to scroll down to this "
+"section."
+msgstr ""
+
+#: inc/customizer.php:803
+msgid "Scroll down effect on slider"
+msgstr ""
+
+#: inc/customizer.php:810
+msgid "No Effect"
+msgstr ""
+
+#: inc/customizer.php:822
+msgid "Show scroll down button"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Slider "
+msgstr ""
+
+#: inc/customizer.php:874
+msgid "Slide image "
+msgstr ""
+
+#: inc/customizer.php:889
+msgid "Slider Text "
+msgstr ""
+
+#: inc/customizer.php:904
+msgid "Slider Subtext "
+msgstr ""
+
+#: inc/customizer.php:923
+msgid "Note:"
+msgstr ""
+
+#: inc/customizer.php:924
+msgid "Upload up to three sliders. Recommended image size: 1920X1080"
+msgstr ""
+
+#: inc/customizer.php:940
+msgid "Display section about us"
+msgstr ""
+
+#: inc/customizer.php:974 inc/customizer.php:1180 inc/customizer.php:1420
+#: inc/customizer.php:1591 inc/customizer.php:1783 inc/customizer.php:2060
+#: inc/customizer.php:2229 inc/customizer.php:2401
+msgid "Background Image Section (optional)"
+msgstr ""
+
+#: inc/customizer.php:994 inc/customizer.php:1200 inc/customizer.php:1440
+#: inc/customizer.php:1611 inc/customizer.php:1803 inc/customizer.php:2080
+#: inc/customizer.php:2249 inc/customizer.php:2421
+msgid "Background Color Section"
+msgstr ""
+
+#: inc/customizer.php:1014 inc/customizer.php:1220 inc/customizer.php:1460
+#: inc/customizer.php:1631 inc/customizer.php:1823 inc/customizer.php:2100
+#: inc/customizer.php:2269 inc/customizer.php:2441
+msgid "Text Color Section"
+msgstr ""
+
+#: inc/customizer.php:1023 sections/section-aboutus.php:5
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer.php:1030 inc/customizer.php:1236 inc/customizer.php:1476
+#: inc/customizer.php:1839 inc/customizer.php:2116 inc/customizer.php:2285
+#: inc/customizer.php:2457
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:1039 sections/section-aboutus.php:6
+msgid "Who We Are"
+msgstr ""
+
+#: inc/customizer.php:1046 inc/customizer.php:1252 inc/customizer.php:1492
+#: inc/customizer.php:1855 inc/customizer.php:2132 inc/customizer.php:2301
+#: inc/customizer.php:2473
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer.php:1065
+msgid "About us text"
+msgstr ""
+
+#: inc/customizer.php:1079 inc/customizer.php:1338 inc/customizer.php:1920
+#: inc/customizer.php:2348
+msgid "Choose the page to display"
+msgstr ""
+
+#: inc/customizer.php:1080
+msgid "Title, content and featured image will be used in the box"
+msgstr ""
+
+#: inc/customizer.php:1098
+msgid "About us button"
+msgstr ""
+
+#: inc/customizer.php:1106 inc/customizer.php:1347 inc/customizer.php:1691
+#: sections/section-aboutus.php:8 sections/section-cta.php:10
+#: sections/section-features.php:25 sections/section-features.php:49
+#: sections/section-features.php:53 sections/section-features.php:93
+#: sections/section-features.php:97 sections/section-features.php:101
+#: sections/section-features.php:157 sections/section-features.php:161
+#: sections/section-features.php:165 sections/section-features.php:169
+msgid "More Information"
+msgstr ""
+
+#: inc/customizer.php:1113 inc/customizer.php:1697
+msgid "Text Button"
+msgstr ""
+
+#: inc/customizer.php:1128 inc/customizer.php:1712
+msgid "Link Button"
+msgstr ""
+
+#: inc/customizer.php:1146
+msgid "Display section features"
+msgstr ""
+
+#: inc/customizer.php:1229 sections/section-features.php:5
+msgid "Elements"
+msgstr ""
+
+#: inc/customizer.php:1245 sections/section-features.php:6
+msgid "Amazing Features"
+msgstr ""
+
+#: inc/customizer.php:1267
+msgid "How many boxes to display"
+msgstr ""
+
+#: inc/customizer.php:1274
+msgid "1"
+msgstr ""
+
+#: inc/customizer.php:1275
+msgid "2"
+msgstr ""
+
+#: inc/customizer.php:1276
+msgid "3"
+msgstr ""
+
+#: inc/customizer.php:1277
+msgid "4"
+msgstr ""
+
+#: inc/customizer.php:1288 inc/customizer.php:1870
+msgid "Text lenght for boxes content (number of words)"
+msgstr ""
+
+#: inc/customizer.php:1308
+msgid "Box number "
+msgstr ""
+
+#: inc/customizer.php:1325 inc/customizer.php:1651 inc/customizer.php:1907
+#: inc/customizer.php:2668
+msgid "FontAwesome Icon"
+msgstr ""
+
+#: inc/customizer.php:1339 inc/customizer.php:1921
+msgid "Title and content (unformatted) will be used in the box"
+msgstr ""
+
+#: inc/customizer.php:1354
+msgid "Text Button "
+msgstr ""
+
+#: inc/customizer.php:1368
+msgid "Link Button "
+msgstr ""
+
+#: inc/customizer.php:1386
+msgid "Display section skills"
+msgstr ""
+
+#: inc/customizer.php:1469 sections/section-skills.php:5
+msgid "Our Skills"
+msgstr ""
+
+#: inc/customizer.php:1485 sections/section-skills.php:6
+msgid "What We Do"
+msgstr ""
+
+#: inc/customizer.php:1512
+msgid "Skill number "
+msgstr ""
+
+#: inc/customizer.php:1524
+msgid "Skill name"
+msgstr ""
+
+#: inc/customizer.php:1538
+msgid "Skill value"
+msgstr ""
+
+#: inc/customizer.php:1539
+msgid "Enter a value between 0 and 100"
+msgstr ""
+
+#: inc/customizer.php:1557
+msgid "Display section call to action"
+msgstr ""
+
+#: inc/customizer.php:1666
+msgid "Call to action phrase"
+msgstr ""
+
+#: inc/customizer.php:1682
+msgid "Call to action description"
+msgstr ""
+
+#: inc/customizer.php:1727
+msgid "Open the link in"
+msgstr ""
+
+#: inc/customizer.php:1735
+msgid "New window"
+msgstr ""
+
+#: inc/customizer.php:1749
+msgid "Display section services"
+msgstr ""
+
+#: inc/customizer.php:1832 sections/section-services.php:5
+msgid "Services"
+msgstr ""
+
+#: inc/customizer.php:1848 sections/section-services.php:6
+msgid "What We Offer"
+msgstr ""
+
+#: inc/customizer.php:1890
+msgid "Service number "
+msgstr ""
+
+#: inc/customizer.php:1940
+msgid "Services text"
+msgstr ""
+
+#: inc/customizer.php:1954
+msgid "Phrase"
+msgstr ""
+
+#: inc/customizer.php:1970
+msgid "Textarea"
+msgstr ""
+
+#: inc/customizer.php:1989
+msgid "Services image"
+msgstr ""
+
+#: inc/customizer.php:2007
+msgid "Upload Image"
+msgstr ""
+
+#: inc/customizer.php:2008
+msgid "Recommended image size: 1000X600px."
+msgstr ""
+
+#: inc/customizer.php:2026
+msgid "Display section blog"
+msgstr ""
+
+#: inc/customizer.php:2109 sections/section-blog.php:7
+msgid "News"
+msgstr ""
+
+#: inc/customizer.php:2125 sections/section-blog.php:8
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer.php:2147
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/customizer.php:2156 sections/section-blog.php:10
+msgid "Go to the blog!"
+msgstr ""
+
+#: inc/customizer.php:2162
+msgid "Text blog button"
+msgstr ""
+
+#: inc/customizer.php:2177
+msgid "Link Blog Button"
+msgstr ""
+
+#: inc/customizer.php:2195
+msgid "Display section team"
+msgstr ""
+
+#: inc/customizer.php:2278 sections/section-team.php:5
+msgid "Our Team"
+msgstr ""
+
+#: inc/customizer.php:2294 sections/section-team.php:6
+msgid "Nice to meet you"
+msgstr ""
+
+#: inc/customizer.php:2316
+msgid "Text lenght for team content (number of words)"
+msgstr ""
+
+#: inc/customizer.php:2336
+msgid "Person number "
+msgstr ""
+
+#: inc/customizer.php:2349
+msgid "Featured Image, title and content will be used in the box"
+msgstr ""
+
+#: inc/customizer.php:2367
+msgid "Display section contact"
+msgstr ""
+
+#: inc/customizer.php:2450 sections/section-contact.php:5
+msgid "Contact Us"
+msgstr ""
+
+#: inc/customizer.php:2466 sections/section-contact.php:6
+msgid "Get in touch"
+msgstr ""
+
+#: inc/customizer.php:2492
+msgid "Contact fields"
+msgstr ""
+
+#: inc/customizer.php:2506
+msgid "Additional Text"
+msgstr ""
+
+#: inc/customizer.php:2522
+msgid "Company Name"
+msgstr ""
+
+#: inc/customizer.php:2538
+msgid "Address line 1"
+msgstr ""
+
+#: inc/customizer.php:2554
+msgid "Address line 2"
+msgstr ""
+
+#: inc/customizer.php:2570
+msgid "Address line 3"
+msgstr ""
+
+#: inc/customizer.php:2586
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:2601
+msgid "Make phone number clickable"
+msgstr ""
+
+#: inc/customizer.php:2616
+msgid "Fax Number"
+msgstr ""
+
+#: inc/customizer.php:2632
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:2647
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: inc/customizer.php:2876
+msgid "Thank you for using Freddo WordPress Theme"
+msgstr ""
+
+#: inc/customizer.php:2881
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer.php:2884
+msgid "Watch the demo"
+msgstr ""
+
+#: inc/customizer.php:2887
+msgid "Watch the PRO Version demo"
+msgstr ""
+
+#: inc/customizer.php:2890
+msgid "More info about Freddo theme"
+msgstr ""
+
+#: inc/customizer.php:3190
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:3193
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:3196
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer.php:3199
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer.php:3202
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:3205
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer.php:3208
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:3211
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer.php:3214
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer.php:3217
+msgid "VK"
+msgstr ""
+
+#: inc/customizer.php:3220
+msgid "Xing"
+msgstr ""
+
+#: inc/customizer.php:3223
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer.php:3226
+msgid "Vimeo"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:77
+msgid "Freddo PRO Theme"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:78
+msgid "More Info"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:89
+msgid "Freddo documentation"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:101
+msgid "Change sections position"
+msgstr ""
+
+#: inc/pro-button/class-customize.php:102
+msgid "PRO Version"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:38
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:68
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:78 template-parts/content-page.php:35
+#: template-parts/content.php:68
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sections/section-skills.php:30
+msgid "%"
+msgstr ""
+
+#: single.php:21
+msgid "Next Post"
+msgstr ""
+
+#: single.php:22
+msgid "Next post:"
+msgstr ""
+
+#: single.php:24
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:25
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:28
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:32
+msgid "Page"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:41
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:61
+msgid "Read More"
+msgstr ""

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ffd86e;
+      }
+    </style>
+  </defs>
+  <g id="icon_compressed" transform="translate(-973 -365)">
+    <rect id="Rectangle_3197" data-name="Rectangle 3197" class="cls-1" width="24" height="24" transform="translate(973 365)"/>
+    <g id="Group_2503" data-name="Group 2503" transform="translate(976 366)">
+      <path id="Path_4776_2_" class="cls-2" d="M11.5,7.4H18V5.7h0a1.854,1.854,0,0,0-.2-.7L13,.2a2.353,2.353,0,0,0-.8-.2H1.6A1.58,1.58,0,0,0,0,1.6V20.4A1.58,1.58,0,0,0,1.6,22H16.3a1.58,1.58,0,0,0,1.6-1.6V7.4H16.3V20.5H1.6V1.6h9V6.5q0,.75.9.9ZM12.3,2,16,5.7H12.3Z"/>
+      <g id="Group_2502" data-name="Group 2502">
+        <rect id="Rectangle_3224" data-name="Rectangle 3224" class="cls-2" width="1.5" height="1" transform="translate(6.2 1.6)"/>
+        <rect id="Rectangle_3225" data-name="Rectangle 3225" class="cls-2" width="1.5" height="1" transform="translate(4.7 2.6)"/>
+        <rect id="Rectangle_3226" data-name="Rectangle 3226" class="cls-2" width="1.5" height="1" transform="translate(6.2 3.7)"/>
+        <rect id="Rectangle_3227" data-name="Rectangle 3227" class="cls-2" width="1.5" height="1" transform="translate(4.7 4.7)"/>
+        <rect id="Rectangle_3228" data-name="Rectangle 3228" class="cls-2" width="1.5" height="1" transform="translate(6.2 5.7)"/>
+        <rect id="Rectangle_3229" data-name="Rectangle 3229" class="cls-2" width="1.5" height="1" transform="translate(4.7 6.7)"/>
+        <path id="Path_4908" data-name="Path 4908" class="cls-2" d="M6.2,7.7v1H4.7v2h0v.7c0,.3.2.2.5.2h2c.3,0,.5,0,.5-.2v-.7h0v-3Zm1.2,3.1H5v-1H7.4Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

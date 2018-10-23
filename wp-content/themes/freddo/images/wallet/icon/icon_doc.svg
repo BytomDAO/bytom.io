@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd86e;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="icon_doc" transform="translate(-973 -489)">
+    <path id="Path_4775" data-name="Path 4775" class="cls-1" d="M11.455,7.364H18V5.727h0a.929.929,0,0,0-.245-.655L12.927.245A1.32,1.32,0,0,0,12.191,0H1.636A1.641,1.641,0,0,0,0,1.636V20.455a1.641,1.641,0,0,0,1.636,1.636H16.364A1.641,1.641,0,0,0,18,20.455V7.364H16.364V20.455H1.636V1.636h9V6.545A.773.773,0,0,0,11.455,7.364Zm.818-5.318,3.682,3.682H12.273Z" transform="translate(976 490)"/>
+    <rect id="Rectangle_3195" data-name="Rectangle 3195" class="cls-2" width="24" height="24" transform="translate(973 489)"/>
+  </g>
+</svg>

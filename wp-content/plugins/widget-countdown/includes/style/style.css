@@ -1,0 +1,237 @@
+/*Countdown general styles*/
+.content_countdown{
+	clear:both;
+}
+.hided_element{
+	visibility:hidden;
+}
+#title_style h1{
+	padding: 0px;
+	margin:0px;
+}
+#descrip{
+	margin: 5px 0px 5px 0px;
+}
+/*Social icons style*/
+.soc_icon_coneiner{
+	display:inline-block;
+	margin-top:2%;
+	width: 100%;
+}
+.soc_icon_coneiner .soc_icon{
+	display: inline-block;
+	margin-right: 3%;
+}
+
+.soc_icon_coneiner .soc_icon img{
+	width:100%;				
+	max-height:82px;
+}
+/*Countdown style*/
+.countdown{
+	width:100%;
+}
+.countdown > div{
+	text-align:center;
+	margin-top:2%;
+	float:left;
+	color:#fff;
+	font-size:48px;
+	font-weight:bold;
+}
+.element_conteiner{
+	text-align:center;
+	display: inline-block;					
+}
+/*Time style*/
+.time_left{
+	border:none;
+	display:block;
+	padding-bottom: 10%;
+	padding-top: 10%;
+	padding-left: 25%;
+	padding-right: 25%;
+	font-weight:bold;
+}
+.time_description{
+	display:block;
+	text-align:center;
+	margin-top:1%;
+	margin-bottom:1%;
+	font-weight:bold;
+}
+/*Information style*/
+.information{
+	box-sizing:border-box;
+	display:inline-block;
+	z-index:999999;
+	width:100%;
+}
+/*Main info style*/
+#main_inform_div{
+	overflow:hidden;
+	box-sizing:border-box;
+	display:table;
+	position:relative;
+	z-index:1000;
+}
+.aligment{
+	display:table-cell;
+	width: 10%;
+}	
+	/*Countdown main style*/
+.countdown figure ul{
+	padding:0px !important;
+}	
+.ClassyCountdown-wrapper{
+	width:100%;
+}
+.ClassyCountdown-wrapper > div {	
+    display: inline-block;
+    position: relative;
+	margin-right:2%;
+   
+}
+.ClassyCountdown-value > span{
+	display:block;
+}
+.ClassyCountdown-wrapper .ClassyCountdown-value {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    left: 0;
+    display: block;
+}	
+#countdown{
+	height: auto;
+}
+figure, figcaption {
+	display: block;
+}
+.transition {
+    -webkit-transition: top 400ms linear;
+    -moz-transition: top 400ms linear;
+    -ms-transition: top 400ms linear;
+    -o-transition: top 400ms linear;
+    transition: top 400ms linear;
+}
+/*Time style*/
+.timeTo {	
+	line-height: 108%;
+	font-weight: bold;
+}
+
+.timeTo span {
+	vertical-align: top;
+}
+.timeTo figure {
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.timeTo figcaption {
+	text-align: center;
+	/*font-size: 12px;*/
+	line-height: 80%;
+	font-weight: normal;
+	color: #888;
+}
+
+.timeTo div {
+	position: relative;
+	display: inline-block;
+	/*width: 25px;
+	height: 30px;*/
+	border-top: 1px solid silver;
+	border-right: 1px solid silver;
+	border-bottom: 1px solid silver;
+	overflow: hidden;
+}
+.timeTo div.first {
+	border-left: 1px solid silver;
+}
+
+.timeTo ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 3px;
+}
+
+.timeTo ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+/*       PROGRESS BAR STYLE       */
+
+
+
+#progressbar { 
+	height: 20px;  /* Can be anything */
+	position: relative;
+	padding: 3px;
+	border-style: solid;
+	
+}
+#progressbar > span {
+	float:left;
+	display: block;
+	height: 100%;
+	border-top-right-radius: 8px;
+	border-bottom-right-radius: 8px;			
+	border-top-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	background-color: #000000;		
+			
+	
+	position: relative;
+	overflow: hidden;
+}
+#progressbar > span:after, .animate > span > span {
+	content: "";
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	background-image: 
+	   -webkit-gradient(linear, 0 0, 100% 100%, 
+		  color-stop(.25, rgba(255, 255, 255, .2)), 
+		  color-stop(.25, transparent), color-stop(.5, transparent), 
+		  color-stop(.5, rgba(255, 255, 255, .2)), 
+		  color-stop(.75, rgba(255, 255, 255, .2)), 
+		  color-stop(.75, transparent), to(transparent)
+	   );
+	background-image: 
+		-moz-linear-gradient(
+		  -45deg, 
+		  rgba(255, 255, 255, .2) 25%, 
+		  transparent 25%, 
+		  transparent 50%, 
+		  rgba(255, 255, 255, .2) 50%, 
+		  rgba(255, 255, 255, .2) 75%, 
+		  transparent 75%, 
+		  transparent
+	   );
+	z-index: 1;
+	-webkit-background-size: 50px 50px;
+	-moz-background-size: 50px 50px;
+	-webkit-animation: move 2s linear infinite;
+	overflow: hidden;
+}
+/*Animation style*/
+.animate > span:after {
+		display: none;
+}
+
+@-webkit-keyframes move {
+	0% {
+	   background-position: 0 0;
+	}
+	100% {
+	   background-position: 50px 50px;
+	}
+}

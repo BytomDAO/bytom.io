@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ffd86e;
+      }
+    </style>
+  </defs>
+  <g id="icon_compressed_zip" transform="translate(-973 -365)">
+    <rect id="Rectangle_3197" data-name="Rectangle 3197" class="cls-1" width="24" height="24" transform="translate(973 365)"/>
+    <g id="Group_2506" data-name="Group 2506" transform="translate(973.1 366)">
+      <path id="Path_4909" data-name="Path 4909" class="cls-2" d="M16,.3a1.135,1.135,0,0,0-.8-.3H4.8C3.5,0,3,.8,3,2V12.3H4.6V1.6h9v5a.576.576,0,0,0,.6.6h5.1v13H4.7V18.5H3v2A1.473,1.473,0,0,0,4.5,22H19.4a1.538,1.538,0,0,0,1.5-1.5V5.7a1.136,1.136,0,0,0-.3-.8ZM15.3,2,19,5.7H15.3Z"/>
+      <path id="Path_4910" data-name="Path 4910" class="cls-2" d="M13.8,12.9H.6a.645.645,0,0,0-.6.6v3.9a.645.645,0,0,0,.6.6H13.8a.645.645,0,0,0,.6-.6V13.5a.645.645,0,0,0-.6-.6ZM6.3,14.2,4.6,16.5H6.3V17H3.7v-.4l1.7-2.3H3.9v-.6H6.4l-.1.5Zm1.5.1H7.5v2.2h.3V17H6.5v-.5h.3V14.3H6.5v-.5H7.7v.5Zm2.4,1.3a1.4,1.4,0,0,1-.9.3H9V17H8.3V13.7H9.4c.8,0,1.2.3,1.2,1,0,.5-.1.7-.4.9Zm0,0"/>
+      <path id="Path_4911" data-name="Path 4911" class="cls-2" d="M9.3,14.3H9v1.1h.3c.4,0,.6-.2.6-.5a.53.53,0,0,0-.6-.6Zm0,0"/>
+      <g id="Group_2506-2" data-name="Group 2506">
+        <rect id="Rectangle_3246" data-name="Rectangle 3246" class="cls-2" width="1.5" height="1" transform="translate(9.2 1.6)"/>
+        <rect id="Rectangle_3247" data-name="Rectangle 3247" class="cls-2" width="1.5" height="1" transform="translate(7.7 2.6)"/>
+        <rect id="Rectangle_3248" data-name="Rectangle 3248" class="cls-2" width="1.5" height="1" transform="translate(9.2 3.6)"/>
+        <rect id="Rectangle_3249" data-name="Rectangle 3249" class="cls-2" width="1.5" height="1" transform="translate(7.7 4.7)"/>
+        <rect id="Rectangle_3250" data-name="Rectangle 3250" class="cls-2" width="1.5" height="1" transform="translate(9.2 5.7)"/>
+        <rect id="Rectangle_3251" data-name="Rectangle 3251" class="cls-2" width="1.5" height="1" transform="translate(7.7 6.7)"/>
+        <path id="Path_4912" data-name="Path 4912" class="cls-2" d="M9.2,7.7v1H7.7v2h0v.7c0,.3.2.2.5.2h2c.3,0,.5,0,.5-.2v-.7h0v-3Zm1.2,3H8v-1h2.4Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

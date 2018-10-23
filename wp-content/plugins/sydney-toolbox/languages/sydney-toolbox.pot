@@ -1,0 +1,548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sydney Toolbox\n"
+"POT-Creation-Date: 2016-03-14 11:56+0200\n"
+"PO-Revision-Date: 2016-03-14 11:56+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\wordpress\\wp-content\\plugins\\sydney-"
+"toolbox\n"
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/sydney-toolbox.php:97
+msgid ""
+"Please note that the <strong>Sydney Toolbox</strong> plugin is meant to be "
+"used only with the <a href=\"http://wordpress.org/themes/sydney/\" target="
+"\"_blank\">Sydney theme</a></p>"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:19
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:20
+msgid "Clients"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:21
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:21
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:21
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:21
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:21
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:26
+msgid "Item Archives"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:22
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:22
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:22
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:22
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:22
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:27
+msgid "Parent Item:"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:23
+msgid "All Clients"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:24
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:25
+msgid "Add New Client"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:26
+msgid "New Client"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:27
+msgid "Edit Client"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:28
+msgid "Update Client"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:29
+msgid "View Client"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:30
+msgid "Search Client"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:31
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:31
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:31
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:31
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:31
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:36
+msgid "Not found"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:32
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:32
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:32
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:32
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:32
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:37
+msgid "Not found in Trash"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:33
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:33
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:33
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:33
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:33
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:38
+msgid "Featured Image"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:34
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:34
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:34
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:34
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:34
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:39
+msgid "Set featured image"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:35
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:35
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:35
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:35
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:35
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:40
+msgid "Remove featured image"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:36
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:36
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:36
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:36
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:36
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:41
+msgid "Use as featured image"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:37
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:37
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:37
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:37
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:37
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:42
+msgid "Insert into item"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:38
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:38
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:38
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:38
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:38
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:43
+msgid "Uploaded to this item"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:39
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:39
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:39
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:39
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:39
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:44
+msgid "Items list"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:40
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:40
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:40
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:40
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:40
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:45
+msgid "Items list navigation"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:41
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:41
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:41
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:41
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:41
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:46
+msgid "Filter items list"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:44
+msgid "Client"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-clients.php:45
+msgid "A post type for your clients"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:19
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:20
+msgid "Employees"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:23
+msgid "All Employees"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:24
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:25
+msgid "Add New Employee"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:26
+msgid "New Employee"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:27
+msgid "Edit Employee"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:28
+msgid "Update Employee"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:29
+msgid "View Employee"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:30
+msgid "Search Employee"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:44
+msgid "Employee"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-employees.php:45
+msgid "A post type for your employees"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:19
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:20
+msgid "Projects"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:23
+msgid "All Projects"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:24
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:25
+msgid "Add New Project"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:26
+msgid "New Project"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:27
+msgid "Edit Project"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:28
+msgid "Update Project"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:29
+msgid "View Project"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:30
+msgid "Search Project"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:44
+msgid "Project"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-projects.php:45
+msgid "A post type for your projects"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:19
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:20
+msgid "Services"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:23
+msgid "All Services"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:24
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:25
+msgid "Add New Service"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:26
+msgid "New Service"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:27
+msgid "Edit Service"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:28
+msgid "Update Service"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:29
+msgid "View Service"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:30
+msgid "Search Service"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:44
+msgid "Service"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-services.php:45
+msgid "A post type for your services"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:19
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:20
+msgid "Testimonials"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:23
+msgid "All Testimonials"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:24
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:25
+msgid "Add New Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:26
+msgid "New Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:27
+msgid "Edit Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:28
+msgid "Update Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:29
+msgid "View Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:30
+msgid "Search Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:44
+msgid "Testimonial"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-testimonials.php:45
+msgid "A post type for your testimonials"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:24
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:25
+msgid "Timeline Events"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:28
+msgid "All Timeline Events"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:29
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:30
+msgid "Add New Event"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:31
+msgid "New Event"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:32
+msgid "Edit Event"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:33
+msgid "Update Event"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:34
+msgid "View Event"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:35
+msgid "Search Event"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:49
+msgid "Event"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/post-type-timeline.php:50
+msgid "A post type for your timeline events"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/clients-metabox.php:33
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/testimonials-metabox.php:33
+msgid "Client info"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/clients-metabox.php:76
+msgid "Client link"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/clients-metabox.php:77
+msgid "Add a link for the client's website here [optional]"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/employees-metabox.php:33
+msgid "Employee info"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/employees-metabox.php:89
+msgid "Employee position"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/employees-metabox.php:91
+msgid "Employee Facebook"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/employees-metabox.php:93
+msgid "Employee Twitter"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/employees-metabox.php:95
+msgid "Employee Google"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/employees-metabox.php:97
+msgid "Employee Link"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/employees-metabox.php:98
+msgid "Add a link here if you want the employee name to link somewhere."
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/projects-metabox.php:33
+msgid "Project info"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/projects-metabox.php:76
+msgid "Project link"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/projects-metabox.php:77
+msgid ""
+"Add an URL here to make this project link to another page (internal or "
+"external). Leave it empty and it will default to its own page."
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/services-metabox.php:33
+msgid "Service info"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/services-metabox.php:77
+msgid "Service icon"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/services-metabox.php:78
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:90
+msgid ""
+"Example: <strong>fa-android</strong>. Full list of icons is <a href=\"http://"
+"fortawesome.github.io/Font-Awesome/cheatsheet/\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/services-metabox.php:80
+msgid "Service link"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/services-metabox.php:81
+msgid ""
+"You can link your service to a page of your choice by entering the URL in "
+"this field"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:36
+msgid "Post/page options"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:89
+msgid "Here you can control the options just for this page/post."
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:91
+msgid "Background image URL"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:92
+msgid ""
+"If you want to use this option, make sure you leave the next background "
+"color option empty."
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:94
+msgid "Background color"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:97
+msgid "Check this box to hide the title"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:98
+msgid "Content wrapper opacity"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/singles-metabox.php:99
+msgid ""
+"Enter a value for the opacity of the white content background. Values from 0 "
+"to 1 (example 0.4)"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/testimonials-metabox.php:78
+msgid "Client function/Company name"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/testimonials-metabox.php:79
+msgid "Enter your client's function/company name"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:34
+msgid "Timeline info"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:86
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:89
+msgid "Event icon"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:87
+msgid "Add the date when this timeline event happened."
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:92
+msgid "Event color"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:93
+msgid "Select a color for the event icon."
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:95
+msgid "Event link"
+msgstr ""
+
+#: D:\wamp\www\wordpress\wp-content\plugins\sydney-toolbox/inc/metaboxes/timeline-metabox.php:96
+msgid ""
+"You can link your event to a page of your choice by entering the URL in this "
+"field"
+msgstr ""

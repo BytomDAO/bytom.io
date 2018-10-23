@@ -1,0 +1,26 @@
+#customize-controls .control-section-freddoProVersion .accordion-section-title:hover,
+#customize-controls .control-section-freddoProVersion .accordion-section-title:focus {
+	background-color: #fff;
+}
+.control-section-freddoProVersion .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	font-size: 80%;
+    padding: 0 5px;
+}
+#accordion-section-cresta_freddo_buy_pro .accordion-section-title .button:first-child {
+	background: #689e5b;
+    color: #fff;
+    box-shadow: none;
+    border: none;
+}
+#accordion-section-cresta_freddo_locked_pro .accordion-section-title .button:after {
+	font-family: dashicons;
+	content: "\f160";
+	padding-left: 3px;
+    float: right;
+	font-size: 150%;
+}
+#customize-controls .current-panel .control-section-freddoProVersion>h3.accordion-section-title {
+    padding-right: 10px;
+}
