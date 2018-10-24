@@ -93,6 +93,28 @@ get_header(); ?>
 					
 					<div class="clearfix"></div>
 				</div>
+				<div class="container">		
+				    <div class="col-md-4 abt-img abt-img-left">
+						<em></em>
+						<img src="<?php bloginfo('template_url'); ?>/images/team/Team_Jinlei.png" alt="金磊" title="金磊">
+					</div>		
+					<div class="col-md-8 abt-dec abt-dec-right">
+						<em></em>
+						<h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jin Lei</font></font></h2>
+						<p class="diff">
+							<font style="vertical-align: inherit;" class="font_title">
+							    Co-CTO of Bytom
+							</font>
+						</p>
+						<p class="dec">
+							<font style="vertical-align: inherit;">
+						     	<font style="vertical-align: inherit;">Graduated from University of Pittsburgh with Ph.D. degree in Computer Science, senior software engineer at Facebook, founding member of the ads team at Pinterest.</font>
+						    </font>
+						</p>				
+					</div>
+					
+					<div class="clearfix"></div>
+				</div>
 				<div class="container">			
 				    <div class="col-md-4 abt-img abt-img-left">
 						<em></em>
@@ -117,13 +139,6 @@ get_header(); ?>
 			</div>
 			<div class="container_box clearfix">
 				<div class="container" style="width: 100%">				
-					<div class="col-md-2 abt-img">
-					    <p class="team_title">
-					    <span class="name">Li Yongfeng</span>
-					    <span class="title">Front-end engineer</span>
-					    </p>
-					    <img src="<?php bloginfo('template_url'); ?>/images/team/Team_Yongfeng.png" alt="李永峰" title="李永峰">
-					</div>
 					<div class="col-md-2 abt-img">
 						<p class="team_title">	
 	                        <span class="name">Ma Yao</span>
@@ -211,22 +226,22 @@ get_header(); ?>
 					</div>
 					<div class="clearfix"></div>
 				</div>
-				<div class="container">	
+				<div class="container" style="max-height: 250.3px;">	
 				    <div class="col-md-4 abt-img abt-img-left">
 						<em></em>
-						<img src="<?php bloginfo('template_url'); ?>/images/team/Team_Muyang.png" alt="李沐阳" title="李沐阳">
+						<img src="<?php bloginfo('template_url'); ?>/images/team/Team_Duchao.png" alt="杜超" title="杜超">
 					</div>			
 					<div class="col-md-8 abt-dec abt-dec-right">
 						<em></em>
-						<h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Li Muyang</font></font></h2>
+						<h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Du Chao</font></font></h2>
 						<p class="diff">
 							<font style="vertical-align: inherit;" class="font_title">
-								Business Development Director.
+							    Operation Director of Bytom
 							</font>
 						</p>
 						<p class="dec">
 							<font style="vertical-align: inherit;">
-						     	<font style="vertical-align: inherit;">Worked at Huawei Technologies Co.Ltd. Senior solution manager at Middle East and North Africa region, experienced in overseas business development, expert in Bigdata and Data-center project.</font>
+						     	<font style="vertical-align: inherit;">With 10 years of experience in Internet, finance, investment and financing, and entrepreneurship of his own business. held important positions in investment and financing enterprises. And successfully funded tens of millions of dollars of angel investment for three times.</font>
 						    </font>
 						</p>			
 					</div>
@@ -253,24 +268,23 @@ get_header(); ?>
 					</div>
 					<div class="clearfix"></div>
 				</div>
-				
+
 				<div class="container">				
 					<div class="col-md-4 abt-img abt-img-left">
 						<em></em>
-					    <img src="<?php bloginfo('template_url'); ?>/images/team/Team_Juan.png" alt="Juan Ibagon" title="Juan Ibagon">
+					    <img src="<?php bloginfo('template_url'); ?>/images/team/Team_Shen.png" alt="Iris Shen" title="Iris Shen">
 					</div>
 					<div class="col-md-8 abt-dec abt-dec-right">
 						<em></em>
-						<h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Juan Ibagon</font></font></h2>
+						<h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Iris Shen</font></font></h2>
 						<p class="diff">
 							<font style="vertical-align: inherit;" class="font_title">
-								Business Development Manager
+							    Overseas BD Manager of Bytom
 							</font>
 						</p>
 						<p class="dec">
 							<font style="vertical-align: inherit;">
-						     	<font style="vertical-align: inherit;">Master in International Business from University of Montpellier (FRANCE), former Senior Project Manager in Komprom Group in France and China. Founder of Ibro International. Experienced in Business Development and Consensus Mining. </font>
-							    
+						     	<font style="vertical-align: inherit;">8 years in international trading business, 3 years in life Insurance business, familiar with both international Project developing and consultant marketing (SPIN Selling). Was a KA manager working with major retailers in the world, leading projects in the US and the UK markets. </font>	    
 						    </font>
 						</p>				
 					</div>
@@ -285,13 +299,6 @@ get_header(); ?>
 						    <span class="title">PR Manager</span>
 						</p>
 					    <img src="<?php bloginfo('template_url'); ?>/images/team/Team_Hou.png" alt="Team_Hou" title="Team_Hou">
-					</div>
-					<div class="col-md-2 abt-img abt-img-left">
-						<p class="team_title">
-							<span class="name">Fawn Fang</span>
-						    <span class="title">Oversea Operation Manager</span>
-						</p>
-					    <img src="<?php bloginfo('template_url'); ?>/images/team/Team_Fawn.png" alt="Team_Fawn" title="Team_Fawn">
 					</div>
 					<div class="col-md-2 abt-img abt-img-left">
 						<p class="team_title">
