@@ -9,12 +9,12 @@
  */
 
 get_header(); ?>
-<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/developers.css?version=1.0.5" type="text/css" media="screen" />  
+<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/developers.css?version=1.0.5" type="text/css" media="screen" />
 <div class="flexslider" style="display:none"></div>
 <section class="developers_about">
 	<div class="by-container">
 		<h2 class="developers_about_title">
-		Bytom<br><br>Global Dev Competition
+			Bytom<br><br>Global Dev Competition
 		</h2>
 		<div class="developers_about_dec">
 			<div class="wallet_desktop_line" style="margin-bottom: 30px;"></div>
@@ -38,48 +38,52 @@ get_header(); ?>
 <section class="developers_intro common">
 	<div class="intro content">
 		<h2 class="developers_intro_title comment_title">
-		Introduction
+			Introduction
 		</h2>
 		<div class="dec clearfix">
 			<div class="dec1 fl" style="height:auto">
-				<p>Bytom global dev competition is committed to promoting the application of blockchain technology and strengthening the exchange and collision of technical peers at home and abroad. We hope to promote the healthy and rational development of the blockchain industry through our efforts.
-<br><br>
-			The competition adopts the Preliminary and Final modes. The Preliminary is an online competition and the Final is an offline closed development competition. The organizers will provide corresponding awards, technical guidance and business incubation for the outstanding innovative projects. </p>
+				<p>Bytom global dev competition is committed to promoting the application of blockchain technology and
+					strengthening the exchange and collision of technical peers at home and abroad. We hope to promote the healthy and
+					rational development of the blockchain industry through our efforts.
+					<br><br>
+					The competition adopts the Preliminary and Final modes. The Preliminary is an online competition and the Final is
+					an offline closed development competition. The organizers will provide corresponding awards, technical guidance
+					and business incubation for the outstanding innovative projects. </p>
 			</div>
 			<div class="dec2 fl">
-			     <div class="img"><img src="<?php echo get_template_directory_uri();?>/images/active/activebg01.png" style="display:block;width:100%"></div>
+				<div class="img"><img src="<?php echo get_template_directory_uri();?>/images/active/activebg01.png" style="display:block;width:100%"></div>
 			</div>
 		</div>
 		<div class="active_feature clearfix">
 			<ul>
 				<li>
 					<img src="<?php echo get_template_directory_uri();?>/images/active/others/1@2x.png">
-					<p style="height:120px; line-height:1.2">World blockchain fest<br/>Blockchainize the future</p>
+					<p style="height:120px; line-height:1.2">World blockchain fest<br />Blockchainize the future</p>
 				</li>
 				<li>
-			     	<img src="<?php echo get_template_directory_uri();?>/images/active/others/2@2x.png" vertical-align="middle">
-					<p style="height:120px; line-height:1.2">Best judge team<br/>High-profile figures</p>
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/2@2x.png" vertical-align="middle">
+					<p style="height:120px; line-height:1.2">Best judge team<br />High-profile figures</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/3@2x.png" vertical-align="middle">
-					<p style="height:120px; line-height:1.2">Exclusive interview<br/>Enormous media exposure</p>
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/3@2x.png" vertical-align="middle">
+					<p style="height:120px; line-height:1.2">Exclusive interview<br />Enormous media exposure</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/4@2x.png" vertical-align="middle">
-					<p style="height:120px; line-height:1.2">Industry award ceremony<br/>Global media coverage</p>
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/4@2x.png" vertical-align="middle">
+					<p style="height:120px; line-height:1.2">Industry award ceremony<br />Global media coverage</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/5@2x.png" vertical-align="middle">
-					<p style="height:120px; line-height:1.2">Strategic investment<br/>from Bytom</p>
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/5@2x.png" vertical-align="middle">
+					<p style="height:120px; line-height:1.2">Strategic investment<br />from Bytom</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/6@2x.png" vertical-align="middle">
-					<p style="height:120px; line-height:1.2">Accelerator service<br/>Business incubation</p>
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/6@2x.png" vertical-align="middle">
+					<p style="height:120px; line-height:1.2">Accelerator service<br />Business incubation</p>
 				</li>
 			</ul>
 		</div>
 		<div class="news">
-		    <div class="Box">
+			<div class="Box">
 				<!-- <div class="content"> -->
 				<div class="Box_con clearfix">
 					<div class="conbox" id="BoxUl">
@@ -103,12 +107,12 @@ get_header(); ?>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-5@2x.png" alt="">
 								<h3>13 DApps are developed in the Boston Hackathon co-hosted by Bytom</h3>
 								<a href="https://blockzone.com/2018/09/25/11-dapps-are-developed-in-the-boston-hackathon-co-hosted-by-bytom/"
-									target="_blank">Read More</a>
+								 target="_blank">Read More</a>
 							</li>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-6@2x.png" alt="">
 								<h3>Find the next “Vitalik Buterin” Bytom invites you to join</h3>
 								<a href="https://medium.com/@Bytom_Official/find-the-next-vitalik-buterin-bytom-invites-you-to-share-2000000btm-by-recommending-developers-741c19dfe08a"
-									target="_blank">Read More</a>
+								 target="_blank">Read More</a>
 							</li>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-7@2x.png" alt="">
 								<h3>제6회 블록체인인사이트 바이텀 한국 밋업 성황리 종료</h3>
@@ -121,7 +125,7 @@ get_header(); ?>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-9@2x.png" alt="">
 								<h3>Bytom波士顿黑客马拉松圆满落幕 区块链版“Youtube”斩获大奖</h3>
 								<a href="https://mp.weixin.qq.com/s?__biz=MzUyNDE0NTI4Mw==&mid=2247485151&idx=1&sn=3b9fe6ccf6be111b01d95ef4c016bbbc&chksm=fa308133cd470825f0de638fa6ab1e8bf0b2dc4b7a1fa3efe13224e11ecb0d9944e5013c16ba&token=411647668&lang=zh_CN#rd"
-									target="_blank">Read More</a>
+								 target="_blank">Read More</a>
 							</li>
 						</ul>
 					</div>
@@ -141,7 +145,7 @@ get_header(); ?>
 <section class="developers_review common">
 	<div class="set content">
 		<h2 class="developers_set_title comment_title">
-		  Activity review
+			Activity review
 		</h2>
 	</div>
 	<div class="content">
@@ -188,58 +192,60 @@ get_header(); ?>
 			<li>
 				<img src="<?php echo get_template_directory_uri();?>/images/active/people/8@2x.png">
 				<h3>彭博</h3>
-				<p>《深度卷积网络·原理与实践》作者，Blink·禀临科技联合创始人。此前在世界最大的外汇对冲基金之一 Ortus Capital Management 负责量化交易，有二十余年的开发经验，对深度学习、智能合约，量化交易均有深入的实践和理解。
+				<p>《深度卷积网络·原理与实践》作者，Blink·禀临科技联合创始人。此前在世界最大的外汇对冲基金之一 Ortus Capital Management
+					负责量化交易，有二十余年的开发经验，对深度学习、智能合约，量化交易均有深入的实践和理解。
 				</p>
 			</li>
 		</ul>
 	</div>
 </section>
-<section class="developers_pro common"  style="background:#fff">
+<section class="developers_pro common" style="background:#fff">
 	<div class="content clearfix">
-		<h2 class="developers_pro_title comment_title" style="text-align:right"> 
-		Schedule 
+		<h2 class="developers_pro_title comment_title" style="text-align:right">
+			Schedule
 		</h2>
 		<div class="am">
 			<div class="process pro">
 				<h3><em></em><b>8.11</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Launch of the dev competition</span>
-					After the launch of the dev competition, the signup channels will be open. The technical team will start the technical presentations via the Internet and in colleges.
-			    </p>
+					After the launch of the dev competition, the signup channels will be open. The technical team will start the
+					technical presentations via the Internet and in colleges.
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>8.11-10.01</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Warm-up activities</span>
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>10.28</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">End of the Preliminary </span>
-					Submission Deadline. A list of the submissions will be  published.
-			    </p>
+					Submission Deadline. A list of the submissions will be published.
+				</p>
 			</div>
 		</div>
 		<div class="pm">
-		    <div class="process pro">
+			<div class="process pro">
 				<h3><em></em><b>11.07</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Announcement of the shortlist</span>
-					The shortlist will be announced on the official website. 
+					The shortlist will be announced on the official website.
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>11.17</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Bytom Devcon Demo Day </span>
 					Presentations with PowerPoint and grade work
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>11.18</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Bytom Devcon</span>
-			    </p>
+				</p>
 			</div>
 		</div>
 	</div>
@@ -247,86 +253,95 @@ get_header(); ?>
 <section class="time">
 	<div class="time_bg">
 		<div class="content time_box">
-		<div style="width: 10%;color:#fff">
-			<span style="display:  block;font-size: 20px;font-weight:600">final time</span>
-			<span class="timespan">2018-11-17</span>
-		</div>
-		<ul class="timeul">
-			<li><span class="dayspan" style="font-size: 32px;">00</span><span>Days</span></li>
-			<li><span class="hourspan" style="font-size: 32px;">00</span><span>Hours</span></li>
-			<li><span class="minspan" style="font-size: 32px;">00</span><span>Minutes</span></li>
-			<li><span class="secspan" style="font-size: 32px;">00</span><span>Seconds</span></li>
-		</ul>
+			<div style="width: 10%;color:#fff">
+				<span style="display:  block;font-size: 20px;font-weight:600">final time</span>
+				<span class="timespan">2018-11-17</span>
+			</div>
+			<ul class="timeul">
+				<li><span class="dayspan" style="font-size: 32px;">00</span><span>Days</span></li>
+				<li><span class="hourspan" style="font-size: 32px;">00</span><span>Hours</span></li>
+				<li><span class="minspan" style="font-size: 32px;">00</span><span>Minutes</span></li>
+				<li><span class="secspan" style="font-size: 32px;">00</span><span>Seconds</span></li>
+			</ul>
 		</div>
 	</div>
-<script>
-	function GetRTime(){
-	var EndTime= new Date('2018/11/17 09:00:00');
-	var NowTime = new Date();
-	var t =EndTime.getTime() - NowTime.getTime();
-	var d=parseInt(t/ 1000 / 60 / 60 / 24);
-		h=parseInt(t/ 1000 / 60 / 60 % 24);
-		m=parseInt(t/ 1000 / 60 % 60);
-		s=parseInt(t/ 1000 % 60);
-		d <10 ? d = '0' +d :d =d;
-		h <10 ? h = '0' +h :h =h;
-		m <10 ? m = '0' +m :m =m;
-		s <10 ? s = '0' +s :s =s;
-	if(t < 0){
-		clearTimeout(GetRTime);
-		return false;
-	}
-	$('.dayspan').html(d);
-	$('.hourspan').html(h);
-	$('.minspan').html(m);
-	$('.secspan').html(s);
-	setTimeout(GetRTime,1000);
-}
-GetRTime();
-</script>
+	<script>
+		function GetRTime() {
+			var EndTime = new Date('2018/11/17 09:00:00');
+			var NowTime = new Date();
+			var t = EndTime.getTime() - NowTime.getTime();
+			var d = parseInt(t / 1000 / 60 / 60 / 24);
+			h = parseInt(t / 1000 / 60 / 60 % 24);
+			m = parseInt(t / 1000 / 60 % 60);
+			s = parseInt(t / 1000 % 60);
+			d < 10 ? d = '0' + d : d = d;
+			h < 10 ? h = '0' + h : h = h;
+			m < 10 ? m = '0' + m : m = m;
+			s < 10 ? s = '0' + s : s = s;
+			if (t < 0) {
+				clearTimeout(GetRTime);
+				return false;
+			}
+			$('.dayspan').html(d);
+			$('.hourspan').html(h);
+			$('.minspan').html(m);
+			$('.secspan').html(s);
+			setTimeout(GetRTime, 1000);
+		}
+		GetRTime();
+	</script>
 </section>
 <section class="developers_set common">
 	<div class="set content">
-		<h2 class="developers_set_title comment_title">
-		About the awards
-		</h2>
-		<div class="entry-header">
-			<h2 class="entry-title title_line" style="font-size:20px">
-			Preliminary Period
+		<div>
+			<h2 class="developers_set_title comment_title">
+				About the awards
 			</h2>
-			<ul class="award clearfix">
-				<li>
-					<h2>Rules and Awards</h2>
-					<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Preliminary(General Competition)_en.pdf">Download</a>
-				</li>
-			</ul>			
+			<div class="entry-header" style="float:left;width:50%">
+				<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+					Preliminary Period
+				</h2>
+				<ul class="award last_award clearfix">
+					<li>
+						<h2>Rules and Awards</h2>
+						<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Preliminary(General Competition)_en.pdf">Download</a>
+					</li>
+				</ul>
+			</div>
+			<div class="entry-header" style="width: 50%;float: left;">
+				<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+					Final Period
+				</h2>
+				<ul class="award last_award clearfix">
+					<li>
+						<h2>Final Rules</h2>
+						<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Finals_en.pdf">Download</a>
+					</li>
+				</ul>
+			</div>
 		</div>
 		<div class="entry-header">
 			<h2 class="entry-title title_line" style="font-size:20px">
-			Final Period
+				Final Awards
 			</h2>
 			<ul class="award last_award clearfix">
-			    <li>
-					<h2>Final Rules</h2>
-					<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Finals_en.pdf">Download</a>
-				</li>
-				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/one.png">
+				<li style="width:18%">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/one.png">
 					<h3> First Prize</h3>
 					<p>1 project<br>200,000 BTM bounty</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/two.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/two.png">
 					<h3>Second Prize</h3>
 					<p>2 projects<br>50,000BTM bounty for each</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/three.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/three.png">
 					<h3>Third Prize</h3>
 					<p>3 projects<br> 30,000BTM bounty for each</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/good.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/good.png">
 					<h3> Award of Merit</h3>
 					<p>10 projects<br>10,000BTM bounty for each</p>
 				</li>
@@ -335,51 +350,55 @@ GetRTime();
 					<h3>Community Special Contribution Award</h3>
 					<p>3 projects<br>10,000BTM bounty for each</p>
 				</li>
-			</ul>			
-        </div>
+			</ul>
+		</div>
 	</div>
 </section>
 <section class="developers_rule common">
 	<div class="rule content clearfix">
 		<h2 class="developers_rule_title comment_title" style="text-align:right;color:#fff">
-		Sign-up rules
+			Sign-up rules
 		</h2>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/1-num@2x.png"> 
-            <div class="dec_box">
-			Bytom Global Dev Competition is open to the whole society. There is no restriction on the number of team members and regions.
-				
-			</div>
-		</div>
-		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/2-num@2x.png"> 
-            <div class="dec_box">
-			Contestants can be individuals or teams. There is no limit on the number of team members. A team of 3 persons and above is commended considering the integrity of the project. 
-			</div>
-		</div>
-		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/3-num@2x.png"> 
-            <div class="dec_box">
-			The team will be disqualified if cheating is found, including those who sign up with false information, or sign up for multiple accounts under the same contestant ID, etc.
-			</div>
-		</div>
-		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/4-num@2x.png"> 
-            <div class="dec_box">
-			Sign-up time (UTC+8): Aug.15, 2018- Oct.28, 2018. Sign-up deadline: 18:00 of Oct.28 
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/1-num@2x.png">
+			<div class="dec_box">
+				Bytom Global Dev Competition is open to the whole society. There is no restriction on the number of team members
+				and regions.
 
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/5-num@2x.png"> 
-            <div class="dec_box">
-			Sign-up: Once you've completed the personal information registration, you are enrolled. Domestic channel: International channel:
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/2-num@2x.png">
+			<div class="dec_box">
+				Contestants can be individuals or teams. There is no limit on the number of team members. A team of 3 persons and
+				above is commended considering the integrity of the project.
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/6-num@2x.png"> 
-            <div class="dec_box">
-			Bytom respects the wishes of developers who have the right to decide whether their projects will be open source.
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/3-num@2x.png">
+			<div class="dec_box">
+				The team will be disqualified if cheating is found, including those who sign up with false information, or sign up
+				for multiple accounts under the same contestant ID, etc.
+			</div>
+		</div>
+		<div class="rule_dec">
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/4-num@2x.png">
+			<div class="dec_box">
+				Sign-up time (UTC+8): Aug.15, 2018- Oct.28, 2018. Sign-up deadline: 18:00 of Oct.28
+
+			</div>
+		</div>
+		<div class="rule_dec">
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/5-num@2x.png">
+			<div class="dec_box">
+				Sign-up: Once you've completed the personal information registration, you are enrolled. Domestic channel:
+				International channel:
+			</div>
+		</div>
+		<div class="rule_dec">
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/6-num@2x.png">
+			<div class="dec_box">
+				Bytom respects the wishes of developers who have the right to decide whether their projects will be open source.
 			</div>
 		</div>
 	</div>
@@ -387,18 +406,79 @@ GetRTime();
 <section class="decelopers_apply common" id="bytomapply" style="background:#fff">
 	<div class="form" id="applyform">
 		<h3 class="form_title">Registration</h3>
-		<p style='color:#a7a7a7'>Please fill in the correct registration information, we will keep in touch with the team and provide development assistance.</p>
-		
-		<?php echo do_shortcode('[contact-form-7  id="283" title="bytom_apply_en"]');?>		
+		<p style='color:#a7a7a7'>Please fill in the correct registration information, we will keep in touch with the team and
+			provide development assistance.</p>
+
+		<?php echo do_shortcode('[contact-form-7  id="283" title="bytom_apply_en"]');?>
 	</div>
 </section>
-</div>  
-<footer  class="footer">
+<!-- 合作赞助 -->
+<style>
+	.patter li {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.patter li div.com:nth-child(1) {
+		float: left;
+		width: 30%;
+	}
+
+	.patter li div.com:nth-child(2) {
+		float: left;
+		width: 50%;
+	}
+
+	.patter li div.com img {
+		width: 80%
+	}
+</style>
+<section class="developers_set common">
+	<div class="set content clearfix" style="text-align:center">
+		<h2 class="developers_set_title comment_title">
+			Sponsors
+		</h2>
+		<div>
+			<p>Join us now! To be our exclusive partners in this big event!</p>
+			<p>We are looking for 4 diamond level partners and 6 platinum level partners in this exhibition. </p>
+			<p>If you are interested in attending, please contact us. Iris Shen (Tel:180 6989 6072; Wechat:180 6989 6072)</p>
+		</div>
+		<div class="entry-header" style="width: 50%;float: left;">
+			<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+				Contact Us
+			</h2>
+			<ul class="award last_award clearfix patter">
+				<li>
+					<div class="com"><img src="<?php echo get_template_directory_uri();?>/images/active/people/shen@2x.png"></div>
+					<div class="com">
+						<h2>沈小姐</h2>
+						<p>电话: 180 6989 6072</p>
+						<p>微信: 180 6989 6072</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="entry-header" style="width: 50%;float: left;">
+			<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+				Detailed Info
+			</h2>
+			<ul class="award last_award clearfix">
+				<li>
+					<h2>Sponsorship</h2>
+					<a href="<?php echo get_template_directory_uri();?>/download/sponsor.pdf">Download</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+</div>
+<footer class="footer">
 	<div class="content">
 		<div class="one fl">
 			<img src="<?php echo get_template_directory_uri();?>/images/active/logo/footer-logo.png" style="width:200px">
 			<p style="margin-top:20px">
-			Bytom reserves the right of final interpretation<br><br>
+				Bytom reserves the right of final interpretation<br><br>
 				Tel：0571-86093123<br><br>
 				Email：bytomdev@bytom.io<br><br>
 			</p>
@@ -415,7 +495,7 @@ GetRTime();
 				<li><a>时戳资本</a></li>
 			</ul>
 			<ul class="contact">
-			    <li><a href="https://weibo.com/u/5966947038?refer_flag=1001030101_" target="_blank"><img src="<?php echo get_template_directory_uri();?>/images/active/media/weibo.png"></a></li>
+				<li><a href="https://weibo.com/u/5966947038?refer_flag=1001030101_" target="_blank"><img src="<?php echo get_template_directory_uri();?>/images/active/media/weibo.png"></a></li>
 				<li><a href="https://mp.weixin.qq.com/s/fLCk33KYQTouevEAi0a0Kg" target="_blank"><img src="<?php echo get_template_directory_uri();?>/images/active/media/wechat.png"></a></li>
 				<li><a href="https://twitter.com/Bytom_Official" target="_blank"><img src="<?php echo get_template_directory_uri();?>/images/active/media/twitter.png"></a></li>
 				<li><a href="https://github.com/Bytom/bytom" target="_blank"><img src="<?php echo get_template_directory_uri();?>/images/active/media/github.png"></a></li>
@@ -431,23 +511,21 @@ GetRTime();
 
 </body>
 <script>
-var wow = new WOW(
-{
-boxClass:     'wow',      // animated element css class (default is wow)
-animateClass: 'animated', // animation css class (default is animated)
-offset:       0,          // distance to the element when triggering the animation (default is 0)
-mobile:       true,       // trigger animations on mobile devices (default is true)
-live:         true,       // act on asynchronously loaded content (default is true)
-callback:     function(box) {
-  // the callback is fired every time an animation is started
-  // the argument that is passed in is the DOM node being animated
-},
-scrollContainer: null // optional scroll container selector, otherwise use window
-}
-);
-wow.init();
+	var wow = new WOW(
+		{
+			boxClass: 'wow',      // animated element css class (default is wow)
+			animateClass: 'animated', // animation css class (default is animated)
+			offset: 0,          // distance to the element when triggering the animation (default is 0)
+			mobile: true,       // trigger animations on mobile devices (default is true)
+			live: true,       // act on asynchronously loaded content (default is true)
+			callback: function (box) {
+				// the callback is fired every time an animation is started
+				// the argument that is passed in is the DOM node being animated
+			},
+			scrollContainer: null // optional scroll container selector, otherwise use window
+		}
+	);
+	wow.init();
 </script>
+
 </html>
-
-
-

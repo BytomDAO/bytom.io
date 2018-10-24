@@ -9,18 +9,19 @@
  */
 
 get_header(); ?>
-<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/developers.css?version=1.0.5" type="text/css" media="screen" />  
+<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/developers.css?version=1.0.5" type="text/css" media="screen" />
 <div class="flexslider" style="display:none"></div>
 <section class="developers_about">
 	<div class="by-container">
 		<h2 class="developers_about_title">
-		  Конкурс Bytom <br><br>Global Development Competition
+			Конкурс Bytom <br><br>Global Development Competition
 		</h2>
 		<div class="developers_about_dec">
 			<div class="wallet_desktop_line" style="margin-bottom: 30px;"></div>
 			<p>2018.8 - 2018.11</p>
 			<b>Host: </b>Bytom<br>
-			<a class="developers_apply" href="#bytomapply" style="color:#fff;font-weight:400">подать заявление сейчас/ зарегистрироваться</a>
+			<a class="developers_apply" href="#bytomapply" style="color:#fff;font-weight:400">подать заявление сейчас/
+				зарегистрироваться</a>
 		</div>
 		<div class="developers_about_thumb">
 			<ul class="clearfix" style="margin-bottom:0;margin-left:0;padding-left:0">
@@ -38,16 +39,22 @@ get_header(); ?>
 <section class="developers_intro common">
 	<div class="intro content">
 		<h2 class="developers_intro_title comment_title">
-		  Введение
+			Введение
 		</h2>
 		<div class="dec clearfix">
 			<div class="dec1 fl">
-				<p style="font-size:14px;">Конкурс Bytom dev competition предназначен для продвижения блокчейн приложений и укрепления связей с профессионалами и обмен опытом с коллегами из разных стран. Мы надеемся, что благодаря нашим скромным усилиям, это будет способствовать к более здоровой и более рациональному развитию блокчейн индустрии.<br><br>
-                  Этот конкурс проводится командой Bytom при поддержке других известных организаций. Для оценки конкурса были приглашены  гости и эксперты из разных стран.<br><br>
-                  Конкурс имеет регистрационный доступ как для китайских команд, так и для международных, и состоит из предварительного этапа и финала. Первое является онлайн-соревнованием, а Финал - это офлайн закрытое соревнование. Выдающимся участникам будут вручены награды, а также для всех инновационных проектов дальнейшая техническая поддержка.</p>
+				<p style="font-size:14px;">Конкурс Bytom dev competition предназначен для продвижения блокчейн приложений и
+					укрепления связей с профессионалами и обмен опытом с коллегами из разных стран. Мы надеемся, что благодаря нашим
+					скромным усилиям, это будет способствовать к более здоровой и более рациональному развитию блокчейн индустрии.<br><br>
+					Этот конкурс проводится командой Bytom при поддержке других известных организаций. Для оценки конкурса были
+					приглашены гости и эксперты из разных стран.<br><br>
+					Конкурс имеет регистрационный доступ как для китайских команд, так и для международных, и состоит из
+					предварительного этапа и финала. Первое является онлайн-соревнованием, а Финал - это офлайн закрытое соревнование.
+					Выдающимся участникам будут вручены награды, а также для всех инновационных проектов дальнейшая техническая
+					поддержка.</p>
 			</div>
 			<div class="dec2 fl">
-			    <div class="img"><img src="<?php echo get_template_directory_uri();?>/images/active/activebg01.png" style="display:block;width:100%;"></div>
+				<div class="img"><img src="<?php echo get_template_directory_uri();?>/images/active/activebg01.png" style="display:block;width:100%;"></div>
 			</div>
 		</div>
 		<div class="active_feature clearfix">
@@ -57,29 +64,29 @@ get_header(); ?>
 					<p style="font-size:14px;line-height:1.5">Всемирный блокчейн-фест<br>Блокчейнизация будущего</p>
 				</li>
 				<li>
-			     	<img src="<?php echo get_template_directory_uri();?>/images/active/others/2@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/2@2x.png">
 					<p style="font-size:14px;line-height:1.5">Список знаменитых гостей<br>Прямое общение с успешными людьми</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/3@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/3@2x.png">
 					<p style="font-size:14px;line-height:1.5">Эксклюзивное интервью с избранными проектами<br> Широкая огласка в СМИ.</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/4@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/4@2x.png">
 					<p style="font-size:14px;line-height:1.5">Церемония награждения. <br>Глобальное освещение в СМИ.</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/5@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/5@2x.png">
 					<p style="font-size:14px;line-height:1.5">Стратегические инвестиции<br>Лучшие инновационные проекты</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/6@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/6@2x.png">
 					<p style="font-size:14px;line-height:1.5">Акселерация<br>Техническое руководство</p>
 				</li>
 			</ul>
 		</div>
-	    <div class="news">
-		    <div class="Box">
+		<div class="news">
+			<div class="Box">
 				<!-- <div class="content"> -->
 				<div class="Box_con clearfix">
 					<div class="conbox" id="BoxUl">
@@ -103,12 +110,12 @@ get_header(); ?>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-5@2x.png" alt="">
 								<h3>13 DApps are developed in the Boston Hackathon co-hosted by Bytom</h3>
 								<a href="https://blockzone.com/2018/09/25/11-dapps-are-developed-in-the-boston-hackathon-co-hosted-by-bytom/"
-									target="_blank">просмотреть подробности</a>
+								 target="_blank">просмотреть подробности</a>
 							</li>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-6@2x.png" alt="">
 								<h3>Find the next “Vitalik Buterin” Bytom invites you to join</h3>
 								<a href="https://medium.com/@Bytom_Official/find-the-next-vitalik-buterin-bytom-invites-you-to-share-2000000btm-by-recommending-developers-741c19dfe08a"
-									target="_blank">просмотреть подробности</a>
+								 target="_blank">просмотреть подробности</a>
 							</li>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-7@2x.png" alt="">
 								<h3>제6회 블록체인인사이트 바이텀 한국 밋업 성황리 종료</h3>
@@ -121,7 +128,7 @@ get_header(); ?>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-9@2x.png" alt="">
 								<h3>Bytom波士顿黑客马拉松圆满落幕 区块链版“Youtube”斩获大奖</h3>
 								<a href="https://mp.weixin.qq.com/s?__biz=MzUyNDE0NTI4Mw==&mid=2247485151&idx=1&sn=3b9fe6ccf6be111b01d95ef4c016bbbc&chksm=fa308133cd470825f0de638fa6ab1e8bf0b2dc4b7a1fa3efe13224e11ecb0d9944e5013c16ba&token=411647668&lang=zh_CN#rd"
-									target="_blank">просмотреть подробности</a>
+								 target="_blank">просмотреть подробности</a>
 							</li>
 						</ul>
 					</div>
@@ -141,7 +148,7 @@ get_header(); ?>
 <section class="developers_review common">
 	<div class="set content">
 		<h2 class="developers_set_title comment_title">
-		   Оценка деятельности 
+			Оценка деятельности 
 		</h2>
 	</div>
 	<div class="content">
@@ -188,60 +195,63 @@ get_header(); ?>
 			<li>
 				<img src="<?php echo get_template_directory_uri();?>/images/active/people/8@2x.png">
 				<h3>彭博</h3>
-				<p>《深度卷积网络·原理与实践》作者，Blink·禀临科技联合创始人。此前在世界最大的外汇对冲基金之一 Ortus Capital Management 负责量化交易，有二十余年的开发经验，对深度学习、智能合约，量化交易均有深入的实践和理解。
+				<p>《深度卷积网络·原理与实践》作者，Blink·禀临科技联合创始人。此前在世界最大的外汇对冲基金之一 Ortus Capital Management
+					负责量化交易，有二十余年的开发经验，对深度学习、智能合约，量化交易均有深入的实践和理解。
 				</p>
 			</li>
 		</ul>
 	</div>
 </section>
-<section class="developers_pro common"  style="background:#fff">
+<section class="developers_pro common" style="background:#fff">
 	<div class="content clearfix">
-		<h2 class="developers_pro_title comment_title" style="text-align:right"> 
+		<h2 class="developers_pro_title comment_title" style="text-align:right">
 			Расписание
 		</h2>
 		<div class="am">
 			<div class="process pro">
 				<h3><em></em><b>8.11</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Запуск конкурса разработчиков</span>
-					После запуска конкурса регистрация будет открыта. Техническая команда начнет технические презентации через Интернет и в университетах.
-			    </p>
+					После запуска конкурса регистрация будет открыта. Техническая команда начнет технические презентации через
+					Интернет и в университетах.
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>8.11-10.01</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">разминка</span>
-					После запуска конкурса регистрация будет открыта. Техническая команда начнет технические презентации через Интернет и в университетах.
-			    </p>
+					После запуска конкурса регистрация будет открыта. Техническая команда начнет технические презентации через
+					Интернет и в университетах.
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>10.28</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Конец предварительного этапа</span>
 					Крайний срок подачи работ. Список материалов будет опубликован.
-			    </p>
+				</p>
 			</div>
 		</div>
 		<div class="pm">
-		    <div class="process pro">
+			<div class="process pro">
 				<h3><em></em><b>11.07</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Огласите финал</span>
 					Огласите финал
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>11.17</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Bytom Devcon Demo Day</span>
 					Презентации с помощью PowerPoint и оценка работ
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>10.21</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Bytom Devcon </span>
-			    </p>
+				</p>
 			</div>
 		</div>
 	</div>
@@ -249,32 +259,32 @@ get_header(); ?>
 <section class="time">
 	<div class="time_bg">
 		<div class="content time_box">
-		<div style="width: 10%;color:#fff">
-			<span style="display: block;font-size: 20px; font-weight:600">Финал</span>
-			<span class="timespan">2018-11-17</span>
-		</div>
-		<ul class="timeul">
-			<li><span class="dayspan" style="font-size: 32px;">00</span><span>Days</span></li>
-			<li><span class="hourspan" style="font-size: 32px;">00</span><span>Hours</span></li>
-			<li><span class="minspan" style="font-size: 32px;">00</span><span>Minutes</span></li>
-			<li><span class="secspan" style="font-size: 32px;">00</span><span>Seconds</span></li>
-		</ul>
+			<div style="width: 10%;color:#fff">
+				<span style="display: block;font-size: 20px; font-weight:600">Финал</span>
+				<span class="timespan">2018-11-17</span>
+			</div>
+			<ul class="timeul">
+				<li><span class="dayspan" style="font-size: 32px;">00</span><span>Days</span></li>
+				<li><span class="hourspan" style="font-size: 32px;">00</span><span>Hours</span></li>
+				<li><span class="minspan" style="font-size: 32px;">00</span><span>Minutes</span></li>
+				<li><span class="secspan" style="font-size: 32px;">00</span><span>Seconds</span></li>
+			</ul>
 		</div>
 	</div>
 	<script>
-		function GetRTime(){
-			var EndTime= new Date('2018/11/17 09:00:00');
+		function GetRTime() {
+			var EndTime = new Date('2018/11/17 09:00:00');
 			var NowTime = new Date();
-			var t =EndTime.getTime() - NowTime.getTime();
-			var d=parseInt(t/ 1000 / 60 / 60 / 24);
-				h=parseInt(t/ 1000 / 60 / 60 % 24);
-				m=parseInt(t/ 1000 / 60 % 60);
-				s=parseInt(t/ 1000 % 60);
-				d <10 ? d = '0' +d :d =d;
-				h <10 ? h = '0' +h :h =h;
-				m <10 ? m = '0' +m :m =m;
-				s <10 ? s = '0' +s :s =s;
-			if(t < 0){
+			var t = EndTime.getTime() - NowTime.getTime();
+			var d = parseInt(t / 1000 / 60 / 60 / 24);
+			h = parseInt(t / 1000 / 60 / 60 % 24);
+			m = parseInt(t / 1000 / 60 % 60);
+			s = parseInt(t / 1000 % 60);
+			d < 10 ? d = '0' + d : d = d;
+			h < 10 ? h = '0' + h : h = h;
+			m < 10 ? m = '0' + m : m = m;
+			s < 10 ? s = '0' + s : s = s;
+			if (t < 0) {
 				clearTimeout(GetRTime);
 				return false;
 			}
@@ -282,53 +292,62 @@ get_header(); ?>
 			$('.hourspan').html(h);
 			$('.minspan').html(m);
 			$('.secspan').html(s);
-			setTimeout(GetRTime,1000);
+			setTimeout(GetRTime, 1000);
 		}
 		GetRTime();
 	</script>
 </section>
 <section class="developers_set common">
 	<div class="set content">
-		<h2 class="developers_set_title comment_title">
-		Про награды
-		</h2>
-		<div class="entry-header">
-			<h2 class="entry-title title_line" style="font-size:20px">
-			 Предварительный этап
+		<div>
+			<h2 class="developers_set_title comment_title">
+				Про награды
 			</h2>
-			<ul class="award clearfix">
-				<li>
-					<h2>конкурса и награды</h2>
-					<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Preliminary(General Competition)_en.pdf">Скачать</a>
-				</li>
-			</ul>			
+			<div class="entry-header" style="float:left;width:50%">
+				<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+					Предварительный этап
+				</h2>
+				<ul class="award last_award clearfix">
+					<li>
+						<h2>конкурса и награды</h2>
+						<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Preliminary(General Competition)_en.pdf">Скачать</a>
+					</li>
+				</ul>
+			</div>
+			<div class="entry-header" style="width: 50%;float: left;">
+				<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+					Финал
+				</h2>
+				<ul class="award last_award clearfix">
+					<li>
+						<h2>Финал Правила</h2>
+						<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Finals_en.pdf">Скачать</a>
+					</li>
+				</ul>
+			</div>
 		</div>
 		<div class="entry-header">
 			<h2 class="entry-title title_line" style="font-size:20px">
-			Финал
+				Финал
 			</h2>
 			<ul class="award last_award clearfix">
-			    <li>
-					<h2>Финал Правила</h2>
-					<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Finals_en.pdf">Скачать</a>
-				</li>
-				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/one.png">
+				<li style="width:18%">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/one.png">
 					<h3>First prize</h3>
 					<p>1 project<br>200,000 BTM</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/two.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/two.png">
 					<h3>Second prize</h3>
 					<p>2 projects<br>50,000 BTM each</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/three.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/three.png">
 					<h3>Third prize</h3>
 					<p>3 projects<br>30,000 BTM each</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/good.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/good.png">
 					<h3>Award of Merit</h3>
 					<p>10 projects<br> 10,000 BTM each</p>
 				</li>
@@ -337,54 +356,59 @@ get_header(); ?>
 					<h3>Community special contribution award</h3>
 					<p>3 projects<br> 30,000 BTM each</p>
 				</li>
-			</ul>			
-        </div>
+			</ul>
+		</div>
 	</div>
 </section>
 <section class="developers_rule common">
 	<div class="rule content clearfix">
 		<h2 class="developers_rule_title comment_title" style="text-align:right;color:#fff">
-		 Правила регистрации
+			Правила регистрации
 		</h2>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/1-num@2x.png"> 
-            <div class="dec_box" style="min-height:370px">
-			Конкурс открыт для всех. Нет никаких ограничений на количество членов в команде и регионов. Приветствуются лица, высшие учебные заведения, научно-исследовательские институты, предприятия, команды производителей.
-				 <p>Участники, которые являются сотрудниками Bytom или со-организаторами, могут быть зачислены в финал, но не будут выбраны в качестве победителей и не получат награды.</p>
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/1-num@2x.png">
+			<div class="dec_box" style="min-height:370px">
+				Конкурс открыт для всех. Нет никаких ограничений на количество членов в команде и регионов. Приветствуются лица,
+				высшие учебные заведения, научно-исследовательские институты, предприятия, команды производителей.
+				<p>Участники, которые являются сотрудниками Bytom или со-организаторами, могут быть зачислены в финал, но не будут
+					выбраны в качестве победителей и не получат награды.</p>
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/2-num@2x.png"> 
-            <div class="dec_box" style="min-height:370px">
-			    Участниками могут быть отдельные лица или команды. Количество членов команды не ограничено. Команда из 3 человек и выше получает высокую оценку с учетом целостности проекта.
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/2-num@2x.png">
+			<div class="dec_box" style="min-height:370px">
+				Участниками могут быть отдельные лица или команды. Количество членов команды не ограничено. Команда из 3 человек и
+				выше получает высокую оценку с учетом целостности проекта.
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/3-num@2x.png"> 
-            <div class="dec_box" style="min-height:370px">
-			  
-Команда будет дисквалифицирована, если будет обнаружен обман с их стороны, в том числе те, кто делится ложной информацией, или зарегистрирован на несколько учетных записей под тем же идентификатором участника.
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/3-num@2x.png">
+			<div class="dec_box" style="min-height:370px">
+
+				Команда будет дисквалифицирована, если будет обнаружен обман с их стороны, в том числе те, кто делится ложной
+				информацией, или зарегистрирован на несколько учетных записей под тем же идентификатором участника.
 
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/4-num@2x.png"> 
-            <div class="dec_box" style="min-height:370px">
-			Время регистрации (UTC+8):
-				Август 15, 2018- Окт.28, 
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/4-num@2x.png">
+			<div class="dec_box" style="min-height:370px">
+				Время регистрации (UTC+8):
+				Август 15, 2018- Окт.28,
 				2018. Окончание регистрации: 18:00 28-ого октября.
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/5-num@2x.png"> 
-            <div class="dec_box" style="min-height:370px">
-		    	Регистрация: как только вы завершили регистрацию, вы будете зачислены. 
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/5-num@2x.png">
+			<div class="dec_box" style="min-height:370px">
+				Регистрация: как только вы завершили регистрацию, вы будете зачислены.
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/6-num@2x.png"> 
-            <div class="dec_box" style="min-height:370px">
-			  Bytom уважает пожелания разработчиков, которые имеют право сами решить, будут ли их проекты с открытым исходным кодом.
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/6-num@2x.png">
+			<div class="dec_box" style="min-height:370px">
+				Bytom уважает пожелания разработчиков, которые имеют право сами решить, будут ли их проекты с открытым исходным
+				кодом.
 			</div>
 		</div>
 	</div>
@@ -392,17 +416,78 @@ get_header(); ?>
 <section class="decelopers_apply common" id="bytomapply" style="background:#fff">
 	<div class="form" id="applyform">
 		<h3 class="form_title">Регистрация участников.</h3>
-		<p style='color:#a7a7a7'>Пожалуйста заполните правильно форму. Оставьте свои контактные данные и находитесь на связи. В случае  чего мы окажем необходимую поддержку.</p>
-		<?php echo do_shortcode('[contact-form-7 id="283" title="bytom_apply"]');?>		
+		<p style='color:#a7a7a7'>Пожалуйста заполните правильно форму. Оставьте свои контактные данные и находитесь на связи.
+			В случае чего мы окажем необходимую поддержку.</p>
+		<?php echo do_shortcode('[contact-form-7 id="283" title="bytom_apply"]');?>
 	</div>
 </section>
-</div>  
-<footer  class="footer">
+<!-- 合作赞助 -->
+<style>
+	.patter li {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.patter li div.com:nth-child(1) {
+		float: left;
+		width: 30%;
+	}
+
+	.patter li div.com:nth-child(2) {
+		float: left;
+		width: 50%;
+	}
+
+	.patter li div.com img {
+		width: 80%
+	}
+</style>
+<section class="developers_set common">
+	<div class="set content clearfix" style="text-align:center">
+		<h2 class="developers_set_title comment_title">
+			Sponsors
+		</h2>
+		<div>
+			<p>Join us now! To be our exclusive partners in this big event!</p>
+			<p>We are looking for 4 diamond level partners and 6 platinum level partners in this exhibition. </p>
+			<p>If you are interested in attending, please contact us. Iris Shen (Tel:180 6989 6072; Wechat:180 6989 6072)</p>
+		</div>
+		<div class="entry-header" style="width: 50%;float: left;">
+			<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+				Contact Us
+			</h2>
+			<ul class="award last_award clearfix patter">
+				<li>
+					<div class="com"><img src="<?php echo get_template_directory_uri();?>/images/active/people/shen@2x.png"></div>
+					<div class="com">
+						<h2>沈小姐</h2>
+						<p>电话: 180 6989 6072</p>
+						<p>微信: 180 6989 6072</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="entry-header" style="width: 50%;float: left;">
+			<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+				Detailed Info
+			</h2>
+			<ul class="award last_award clearfix">
+				<li>
+					<h2>Sponsorship</h2>
+					<a href="<?php echo get_template_directory_uri();?>/download/sponsor.pdf">Download</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+</div>
+<footer class="footer">
 	<div class="content">
 		<div class="one fl">
 			<img src="<?php echo get_template_directory_uri();?>/images/active/logo/footer-logo.png" style="width:200px">
 			<p style="margin-top:20px">
-			    Bytom оставляет за собой право окончательного выбора и результата<br><br>
+				Bytom оставляет за собой право окончательного выбора и результата<br><br>
 				Tel：86+0571-86093123<br><br>
 				Email：bytomdev@bytom.io<br><br>
 			</p>
@@ -435,20 +520,21 @@ get_header(); ?>
 
 </body>
 <script>
-var wow = new WOW(
-{
-boxClass:     'wow',      // animated element css class (default is wow)
-animateClass: 'animated', // animation css class (default is animated)
-offset:       0,          // distance to the element when triggering the animation (default is 0)
-mobile:       true,       // trigger animations on mobile devices (default is true)
-live:         true,       // act on asynchronously loaded content (default is true)
-callback:     function(box) {
-  // the callback is fired every time an animation is started
-  // the argument that is passed in is the DOM node being animated
-},
-scrollContainer: null // optional scroll container selector, otherwise use window
-}
-);
-wow.init();
+	var wow = new WOW(
+		{
+			boxClass: 'wow',      // animated element css class (default is wow)
+			animateClass: 'animated', // animation css class (default is animated)
+			offset: 0,          // distance to the element when triggering the animation (default is 0)
+			mobile: true,       // trigger animations on mobile devices (default is true)
+			live: true,       // act on asynchronously loaded content (default is true)
+			callback: function (box) {
+				// the callback is fired every time an animation is started
+				// the argument that is passed in is the DOM node being animated
+			},
+			scrollContainer: null // optional scroll container selector, otherwise use window
+		}
+	);
+	wow.init();
 </script>
+
 </html>

@@ -9,12 +9,12 @@
  */
 
 get_header(); ?>
-<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/developers.css?version=1.0.5" type="text/css" media="screen" />  
+<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/developers.css?version=1.0.5" type="text/css" media="screen" />
 <div class="flexslider" style="display:none"></div>
 <section class="developers_about">
 	<div class="by-container">
 		<h2 class="developers_about_title">
-		  比原链<br><br>全球开发大赛
+			比原链<br><br>全球开发大赛
 		</h2>
 		<div class="developers_about_dec">
 			<div class="wallet_desktop_line" style="margin-bottom: 30px;"></div>
@@ -38,13 +38,13 @@ get_header(); ?>
 <section class="developers_intro common">
 	<div class="intro content">
 		<h2 class="developers_intro_title comment_title">
-		  大 赛 简 介
+			大 赛 简 介
 		</h2>
 		<div class="dec clearfix">
 			<div class="dec1 fl">
 				<p>比原链开发大赛关注并致力于促进区块链技术的应用落地，加强海内外技术同行的交流与碰撞。我们希望通过自己的绵薄之力，推动区块链行业健康、理性地发展。<br><br>
-                  本次大赛由比原链主办，多家行业知名机构协办，同时邀请了海内外重量级嘉宾参与评审指导。<br><br>
-                  大赛分为中国和国际两个报名通道，并采取初赛、决赛模式。初赛为网络赛，决赛为线下开发赛。主办方将为最终获取奖项的各创新优秀项目，提供相应的比赛奖励及技术指导、商业孵化。</p>
+					本次大赛由比原链主办，多家行业知名机构协办，同时邀请了海内外重量级嘉宾参与评审指导。<br><br>
+					大赛分为中国和国际两个报名通道，并采取初赛、决赛模式。初赛为网络赛，决赛为线下开发赛。主办方将为最终获取奖项的各创新优秀项目，提供相应的比赛奖励及技术指导、商业孵化。</p>
 			</div>
 			<div class="dec2 fl">
 				<div class="img"><img src="<?php echo get_template_directory_uri();?>/images/active/activebg01.png" style="display:block;width:100%"></div>
@@ -57,29 +57,29 @@ get_header(); ?>
 					<p>世界区块链盛会<br>激情碰撞共绘蓝图</p>
 				</li>
 				<li>
-			     	<img src="<?php echo get_template_directory_uri();?>/images/active/others/2@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/2@2x.png">
 					<p>超强嘉宾阵容<br>与大咖零距离</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/3@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/3@2x.png">
 					<p>精选项目专访<br>大会千万级曝光</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/4@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/4@2x.png">
 					<p>行业颁奖盛典<br>国内外媒体覆盖</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/5@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/5@2x.png">
 					<p>比原链战略投资<br>优质创新项目</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/6@2x.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/6@2x.png">
 					<p>加速器服务<br>技术指导与商业孵化</p>
 				</li>
 			</ul>
 		</div>
 		<div class="news">
-		    <div class="Box">
+			<div class="Box">
 				<!-- <div class="content"> -->
 				<div class="Box_con clearfix">
 					<div class="conbox" id="BoxUl">
@@ -103,12 +103,12 @@ get_header(); ?>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-5@2x.png" alt="">
 								<h3>13 DApps are developed in the Boston Hackathon co-hosted by Bytom</h3>
 								<a href="https://blockzone.com/2018/09/25/11-dapps-are-developed-in-the-boston-hackathon-co-hosted-by-bytom/"
-									target="_blank">查看详情</a>
+								 target="_blank">查看详情</a>
 							</li>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-6@2x.png" alt="">
 								<h3>Find the next “Vitalik Buterin” Bytom invites you to join</h3>
 								<a href="https://medium.com/@Bytom_Official/find-the-next-vitalik-buterin-bytom-invites-you-to-share-2000000btm-by-recommending-developers-741c19dfe08a"
-									target="_blank">查看详情</a>
+								 target="_blank">查看详情</a>
 							</li>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-7@2x.png" alt="">
 								<h3>제6회 블록체인인사이트 바이텀 한국 밋업 성황리 종료</h3>
@@ -121,7 +121,7 @@ get_header(); ?>
 							<li class="cur"><img src="<?php echo get_template_directory_uri();?>/images/active/news/news-9@2x.png" alt="">
 								<h3>Bytom波士顿黑客马拉松圆满落幕 区块链版“Youtube”斩获大奖</h3>
 								<a href="https://mp.weixin.qq.com/s?__biz=MzUyNDE0NTI4Mw==&mid=2247485151&idx=1&sn=3b9fe6ccf6be111b01d95ef4c016bbbc&chksm=fa308133cd470825f0de638fa6ab1e8bf0b2dc4b7a1fa3efe13224e11ecb0d9944e5013c16ba&token=411647668&lang=zh_CN#rd"
-									target="_blank">查看详情</a>
+								 target="_blank">查看详情</a>
 							</li>
 						</ul>
 					</div>
@@ -188,7 +188,8 @@ get_header(); ?>
 			<li>
 				<img src="<?php echo get_template_directory_uri();?>/images/active/people/8@2x.png">
 				<h3>彭博</h3>
-				<p>《深度卷积网络·原理与实践》作者，Blink·禀临科技联合创始人。此前在世界最大的外汇对冲基金之一 Ortus Capital Management 负责量化交易，有二十余年的开发经验，对深度学习、智能合约，量化交易均有深入的实践和理解。
+				<p>《深度卷积网络·原理与实践》作者，Blink·禀临科技联合创始人。此前在世界最大的外汇对冲基金之一 Ortus Capital Management
+					负责量化交易，有二十余年的开发经验，对深度学习、智能合约，量化交易均有深入的实践和理解。
 				</p>
 			</li>
 		</ul>
@@ -196,51 +197,51 @@ get_header(); ?>
 </section>
 <section class="developers_pro common">
 	<div class="content clearfix">
-		<h2 class="developers_pro_title comment_title" style="text-align:right"> 
+		<h2 class="developers_pro_title comment_title" style="text-align:right">
 			赛 事 流 程
 		</h2>
 		<div class="am">
 			<div class="process pro">
 				<h3><em></em><b>8.11</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">开发大赛启动仪式</span>
 					开发大赛启动后，大赛报名通道开启，技术团队开始高校及网络渠道的技术讲解。
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>8.11-10.01</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">比原链开发大赛系列预热活动</span>
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>10.28</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">大赛初赛结束</span>
 					截止提交作品，公布投稿名单。
-			    </p>
+				</p>
 			</div>
 		</div>
 		<div class="pm">
-		    <div class="process pro">
+			<div class="process pro">
 				<h3><em></em><b>11.07</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">公布决赛名单</span>
 					公布决赛名单，通过官网宣传渠道发布。
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>11.17</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Bytom Devcon Demo Day</span>
 					开发者闪电演讲和演示
-			    </p>
+				</p>
 			</div>
 			<div class="process pro">
 				<h3><em></em><b>11.18</b></h3>
-                <p class="pro_dec">
+				<p class="pro_dec">
 					<span class="pro_title">Bytom Devcon</span>
-			    </p>
+				</p>
 			</div>
 		</div>
 	</div>
@@ -248,33 +249,33 @@ get_header(); ?>
 <section class="time">
 	<div class="time_bg">
 		<div class="content time_box">
-		<!-- <span class="timespan"></span> -->
-		<div style="width:10%; color:#fff">
-			<span style="display: block; font-size: 20px; font-weight: 600">决赛时间</span>
-			<span class="timespan">2018-11-17</span>
-		</div>
-		<ul class="timeul">
-			<li><span class="dayspan" style="font-size: 32px;">00</span><span>天</span></li>
-			<li><span class="hourspan" style="font-size: 32px;">00</span><span>时</span></li>
-			<li><span class="minspan" style="font-size: 32px;">00</span><span>分</span></li>
-			<li><span class="secspan" style="font-size: 32px;">00</span><span>秒</span></li>
-		</ul>
+			<!-- <span class="timespan"></span> -->
+			<div style="width:10%; color:#fff">
+				<span style="display: block; font-size: 20px; font-weight: 600">决赛时间</span>
+				<span class="timespan">2018-11-17</span>
+			</div>
+			<ul class="timeul">
+				<li><span class="dayspan" style="font-size: 32px;">00</span><span>天</span></li>
+				<li><span class="hourspan" style="font-size: 32px;">00</span><span>时</span></li>
+				<li><span class="minspan" style="font-size: 32px;">00</span><span>分</span></li>
+				<li><span class="secspan" style="font-size: 32px;">00</span><span>秒</span></li>
+			</ul>
 		</div>
 	</div>
 	<script>
-		function GetRTime(){
-			var EndTime= new Date('2018/11/17 09:00:00');
+		function GetRTime() {
+			var EndTime = new Date('2018/11/17 09:00:00');
 			var NowTime = new Date();
-			var t =EndTime.getTime() - NowTime.getTime();
-			var d=parseInt(t/ 1000 / 60 / 60 / 24);
-				h=parseInt(t/ 1000 / 60 / 60 % 24);
-				m=parseInt(t/ 1000 / 60 % 60);
-				s=parseInt(t/ 1000 % 60);
-				d <10 ? d = '0' +d :d =d;
-				h <10 ? h = '0' +h :h =h;
-				m <10 ? m = '0' +m :m =m;
-				s <10 ? s = '0' +s :s =s;
-			if(t < 0){
+			var t = EndTime.getTime() - NowTime.getTime();
+			var d = parseInt(t / 1000 / 60 / 60 / 24);
+			h = parseInt(t / 1000 / 60 / 60 % 24);
+			m = parseInt(t / 1000 / 60 % 60);
+			s = parseInt(t / 1000 % 60);
+			d < 10 ? d = '0' + d : d = d;
+			h < 10 ? h = '0' + h : h = h;
+			m < 10 ? m = '0' + m : m = m;
+			s < 10 ? s = '0' + s : s = s;
+			if (t < 0) {
 				clearTimeout(GetRTime);
 				return false;
 			}
@@ -282,7 +283,7 @@ get_header(); ?>
 			$('.hourspan').html(h);
 			$('.minspan').html(m);
 			$('.secspan').html(s);
-			setTimeout(GetRTime,1000);
+			setTimeout(GetRTime, 1000);
 		}
 		GetRTime();
 
@@ -304,46 +305,55 @@ get_header(); ?>
 </section>
 <section class="developers_set common">
 	<div class="set content">
-		<h2 class="developers_set_title comment_title">
-		 奖 项 设 置
-		</h2>
-		<div class="entry-header">
-			<h2 class="entry-title title_line" style="font-size:20px">
-			 初赛阶段
+		<div>
+			<h2 class="developers_set_title comment_title">
+				奖 项 设 置
 			</h2>
-			<ul class="award clearfix">
-				<li>
-					<h2>赛制及奖项</h2>
-					<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Preliminary(General_Competition).pdf">资料下载</a>
-				</li>
-			</ul>			
+			<div class="entry-header" style="float:left;width:50%">
+				<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+					初赛阶段
+				</h2>
+				<ul class="award last_award clearfix">
+					<li>
+						<h2>赛制及奖项</h2>
+						<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Preliminary(General_Competition).pdf">资料下载</a>
+					</li>
+				</ul>
+			</div>
+			<div class="entry-header" style="width: 50%;float: left;">
+				<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+					决赛阶段
+				</h2>
+				<ul class="award last_award clearfix">
+					<li>
+						<h2>决赛赛制</h2>
+						<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Finals.pdf">资料下载</a>
+					</li>
+				</ul>
+			</div>
 		</div>
 		<div class="entry-header">
 			<h2 class="entry-title title_line" style="font-size:20px">
-			 决赛阶段
+				决赛奖励
 			</h2>
 			<ul class="award last_award clearfix">
-			    <li>
-					<h2>决赛赛制</h2>
-					<a href="<?php echo get_template_directory_uri();?>/download/BGDC-Finals.pdf">资料下载</a>
-				</li>
-				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/one.png">
+				<li style="width:18%">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/one.png">
 					<h3>一等奖</h3>
 					<p>1个参赛项目<br>200,000 BTM</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/two.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/two.png">
 					<h3>二等奖</h3>
 					<p>2个参赛项目<br>各 50,000 BTM</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/three.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/three.png">
 					<h3>三等奖</h3>
 					<p>3个参赛项目<br>各 30,000 BTM</p>
 				</li>
 				<li>
-				    <img src="<?php echo get_template_directory_uri();?>/images/active/others/good.png">
+					<img src="<?php echo get_template_directory_uri();?>/images/active/others/good.png">
 					<h3>优秀奖</h3>
 					<p>10个参赛项目<br>各 10,000 BTM</p>
 				</li>
@@ -352,52 +362,52 @@ get_header(); ?>
 					<h3>社区特别贡献奖</h3>
 					<p>3个参赛项目<br>各 10,000 BTM</p>
 				</li>
-			</ul>			
-        </div>
+			</ul>
+		</div>
 	</div>
 </section>
 <section class="developers_rule common">
 	<div class="rule content clearfix">
 		<h2 class="developers_rule_title comment_title" style="text-align:right;color:#fff">
-		 报 名 规 则
+			报 名 规 则
 		</h2>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/1-num@2x.png"> 
-            <div class="dec_box">
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/1-num@2x.png">
+			<div class="dec_box">
 				比原链开发者大赛面向全社会开放,人数地域不限，个人、高等院校、科研单位、企业、创客团队等均欢迎报名参赛。
-				 <p>注：大赛组织机构单位中涉及数据接触的人员禁止参赛；比原链员工和赛事合办单位参赛，可参与排名，但不参与评奖及领取奖金。</p>
+				<p>注：大赛组织机构单位中涉及数据接触的人员禁止参赛；比原链员工和赛事合办单位参赛，可参与排名，但不参与评奖及领取奖金。</p>
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/2-num@2x.png"> 
-            <div class="dec_box">
-			    选手可以个人或组队形式参赛，组队人数不限，考虑项目完整性建议3人及以上组队。
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/2-num@2x.png">
+			<div class="dec_box">
+				选手可以个人或组队形式参赛，组队人数不限，考虑项目完整性建议3人及以上组队。
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/3-num@2x.png"> 
-            <div class="dec_box">
-			   任何作弊行为会被取消参赛资格，包括：虚假信息报名，同一选手注册多账号参赛等。
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/3-num@2x.png">
+			<div class="dec_box">
+				任何作弊行为会被取消参赛资格，包括：虚假信息报名，同一选手注册多账号参赛等。
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/4-num@2x.png"> 
-            <div class="dec_box">
-			报名时间：（UTC+8）
-			2018年8月15日至2018年10月28日。
-			2018年10月28日18点停止报名与队伍变更。
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/4-num@2x.png">
+			<div class="dec_box">
+				报名时间：（UTC+8）
+				2018年8月15日至2018年10月28日。
+				2018年10月28日18点停止报名与队伍变更。
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/5-num@2x.png"> 
-            <div class="dec_box">
-		    	完成个人信息注册，即可报名参赛，比赛分为中国通道和国际通道，选择正确的报名通道有助于我们提供参赛帮助。
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/5-num@2x.png">
+			<div class="dec_box">
+				完成个人信息注册，即可报名参赛，比赛分为中国通道和国际通道，选择正确的报名通道有助于我们提供参赛帮助。
 			</div>
 		</div>
 		<div class="rule_dec">
-		    <img src="<?php echo get_template_directory_uri();?>/images/active/number/6-num@2x.png"> 
-            <div class="dec_box">
-			   比原链尊重开发者的意愿，且有权利决定项目最后是否开源。
+			<img src="<?php echo get_template_directory_uri();?>/images/active/number/6-num@2x.png">
+			<div class="dec_box">
+				比原链尊重开发者的意愿，且有权利决定项目最后是否开源。
 			</div>
 		</div>
 	</div>
@@ -406,17 +416,77 @@ get_header(); ?>
 	<div class="form" id="applyform">
 		<h3 class="form_title">大赛报名</h3>
 		<p style='color:#a7a7a7'>请填写正确的报名信息，我们将与参赛团队保持沟通，提供开发协助</p>
-		
-		<?php echo do_shortcode('[contact-form-7 id="300" title="bytom_apply"]');?>		
+
+		<?php echo do_shortcode('[contact-form-7 id="300" title="bytom_apply"]');?>
 	</div>
 </section>
-</div>  
-<footer  class="footer">
+<!-- 合作赞助 -->
+<style>
+	.patter li {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.patter li div.com:nth-child(1) {
+		float: left;
+		width: 30%;
+	}
+
+	.patter li div.com:nth-child(2) {
+		float: left;
+		width: 50%;
+	}
+
+	.patter li div.com img {
+		width: 80%
+	}
+</style>
+<section class="developers_set common">
+	<div class="set content clearfix" style="text-align:center">
+		<h2 class="developers_set_title comment_title">
+			合 作 伙 伴
+		</h2>
+		<div>
+			<p>欢迎业界参与者成为我们的合作伙伴</p>
+			<p>本次展会我们将与4位钻石合作商，6位白金合作商进行合作</p>
+			<p>如果您有意向参展，请联系我们。我们将努力为双方创造一次完美的合作与双赢的机会。</p>
+		</div>
+		<div class="entry-header" style="width: 50%;float: left;">
+			<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+				联 系 我 们
+			</h2>
+			<ul class="award last_award clearfix patter">
+				<li>
+					<div class="com"><img src="<?php echo get_template_directory_uri();?>/images/active/people/shen@2x.png"></div>
+					<div class="com">
+						<h2>沈小姐</h2>
+						<p>电话: 180 6989 6072</p>
+						<p>微信: 180 6989 6072</p>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<div class="entry-header" style="width: 50%;float: left;">
+			<h2 class="entry-title title_line" style="font-size:20px;text-align: left">
+				资 料 下 载
+			</h2>
+			<ul class="award last_award clearfix">
+				<li>
+					<h2>赞助商手册</h2>
+					<a href="<?php echo get_template_directory_uri();?>/download/sponsor.pdf">资料下载</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</section>
+</div>
+<footer class="footer">
 	<div class="content">
 		<div class="one fl">
 			<img src="<?php echo get_template_directory_uri();?>/images/active/logo/footer-logo.png" style="width:200px">
 			<p style="margin-top:20px">
-			    本活动最终解释权归比原链<br><br>
+				本活动最终解释权归比原链<br><br>
 				商务合作：0571-86093123<br><br>
 				联系邮箱：bytomdev@bytom.io<br><br>
 			</p>
@@ -449,21 +519,21 @@ get_header(); ?>
 
 </body>
 <script>
-var wow = new WOW(
-{
-boxClass:     'wow',      // animated element css class (default is wow)
-animateClass: 'animated', // animation css class (default is animated)
-offset:       0,          // distance to the element when triggering the animation (default is 0)
-mobile:       true,       // trigger animations on mobile devices (default is true)
-live:         true,       // act on asynchronously loaded content (default is true)
-callback:     function(box) {
-  // the callback is fired every time an animation is started
-  // the argument that is passed in is the DOM node being animated
-},
-scrollContainer: null // optional scroll container selector, otherwise use window
-}
-);
-wow.init();
+	var wow = new WOW(
+		{
+			boxClass: 'wow',      // animated element css class (default is wow)
+			animateClass: 'animated', // animation css class (default is animated)
+			offset: 0,          // distance to the element when triggering the animation (default is 0)
+			mobile: true,       // trigger animations on mobile devices (default is true)
+			live: true,       // act on asynchronously loaded content (default is true)
+			callback: function (box) {
+				// the callback is fired every time an animation is started
+				// the argument that is passed in is the DOM node being animated
+			},
+			scrollContainer: null // optional scroll container selector, otherwise use window
+		}
+	);
+	wow.init();
 </script>
-</html>
 
+</html>
